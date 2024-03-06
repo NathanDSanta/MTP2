@@ -6,11 +6,12 @@ int main(){
     cin >> fitxer;
     ifstream fin(fitxer.c_str());
     if(!fin.is_open()) cout << "NO S'HA TROBAT EL FITXER" << endl;
-    cout << "ENTRA EL NOMBRE MINIM D'APARICIONS: " << endl;
+    cout << "ENTRA EL MINIM D'APARICIONS: " << endl;
     int min_aparicions;
     cin >> min_aparicions;
     Vec_paraules recompte_paraules;
-    Paraula p = Paraula(fin);
+    Paraula p;
+    if(fin.is_open()) p = Paraula(fin);
     while(!fin.eof() && fin.is_open()){
         recompte_paraules.inserir_paraula(p);
         p = Paraula(fin);

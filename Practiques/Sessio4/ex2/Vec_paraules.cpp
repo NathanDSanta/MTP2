@@ -5,7 +5,7 @@ Vec_paraules::Vec_paraules(){
 }
 
 void Vec_paraules::mostrar_minim_aparcions(int num_ap) const{
-    cout << "RECOMPTE DE PARAULES: " << endl; 
+    cout << "RECOMPTE DE LES PARAULES: " << endl; 
     for(int i = 0; i < n; i++){
         if(t[i].obtenir_comptador() >= num_ap) t[i].mostrar();
     }
