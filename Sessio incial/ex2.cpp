@@ -34,7 +34,3 @@ int main(){
 
     return 0;
 }
-
-int return2(){
-    return 2;
-}
