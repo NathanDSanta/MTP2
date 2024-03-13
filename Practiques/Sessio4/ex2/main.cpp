@@ -18,4 +18,5 @@ int main(){
     }
     recompte_paraules.mostrar_minim_aparcions(min_aparicions);
     return 0;
+
 }
