@@ -1,5 +1,9 @@
-#include "Categories.h"
 #include "Productes.h"
+
+Data demanar_data(string missatge){
+    cout << missatge << endl;
+    return Data(true);
+}
 
 string demanar_string(string missatge){
     cout << missatge << endl;
@@ -15,6 +19,13 @@ char demanar_char(string missatge){
     return aux;
 }
 
+int demanar_int(string missatge){
+    cout << missatge << endl;
+    int aux;
+    cin >> aux;
+    return aux;
+}
+
 void opcions(){
     cout << "OPCIONS: " << endl
          << "N -> Ordenar pe nom" << endl
@@ -26,15 +37,36 @@ void opcions(){
 }
 
 int main(){
-    Data llindar(true);
+    Data llindar = demanar_data("Entra una data (any mes dia): ");
     ifstream fitxer(demanar_string("Entra el nom del fitxer: ").c_str());
     if(!fitxer.is_open()) cout << "Fitxer no trobat" << endl;
     else{
         Productes llarg, curt;
-        Productes::llegir_fitxer(fitxer, llarg, curt, llindar);
-        llarg.mostrar();
+        Categories cat;
+        Productes::llegir_fitxer(fitxer, llarg, curt, cat, llindar);
         opcions();
-        curt.mostrar();
+        bool sortir = false;
+        while(!sortir){
+            char opcio = demanar_char("Opcio:");
+            switch (opcio){
+            case 'N':
+            case 'D':
+                Productes(curt).ordenar_per(opcio).mostrar();
+                break;
+            case 'A':
+                curt.actualitzar_estructures(llarg, demanar_data("Entra la nova data (any mes dia)"));
+                break;
+            case 'C': 
+                cat.mostrar_es_pot_satisfer(demanar_int("Quantitat:"), demanar_string("Categoria:"));
+                break;
+            case 'M':
+                opcions();
+                break;
+            case 'S':
+                sortir = true;
+                break;
+            }
+        }
     }
     return 0;
 }

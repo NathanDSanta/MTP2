@@ -20,6 +20,7 @@ public:
 
     //Operadors
     bool operator <(const Data& d) const;
+    bool operator ==(const Data& d) const;
 };
 
 

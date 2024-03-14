@@ -2,7 +2,6 @@
 
 Data::Data(bool cin2, int any, int mes, int dia){
     if(cin2){
-        cout << "Entra una data (any mes dia): " << endl;
         cin >> a_any >> a_mes >> a_dia;
     } else{
         a_any = any;
@@ -29,3 +28,5 @@ bool Data::operator <(const Data& d) const{
     }
     return es_menor;
 }
+
+bool Data::operator ==(const Data& d) const{return a_any == d.a_any && a_mes == d.a_mes && a_dia == d.a_dia;}
