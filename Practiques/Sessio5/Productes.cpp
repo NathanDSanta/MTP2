@@ -72,6 +72,5 @@ void Productes::actualitzar_estructures(Productes& llarg, const Data& d){
             llarg.t[n_bons] = llarg.t[i];
             n_bons++;
         } 
-        n_bons++;
     }
 }

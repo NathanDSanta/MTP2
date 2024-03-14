@@ -1,0 +1,96 @@
+110_20240325
+cigrons
+marca c
+13
+2024 03 25
+llegums cuits
+110_20240312
+llenties
+marca c
+16
+2024 03 12
+llegums cuits
+150_20250808
+arros llarg
+marca e
+10
+2025 08 08
+arros
+297_20240325
+macarrons
+marca c
+18
+2024 03 25
+pasta fresca
+110_20240315
+cigrons
+marca d
+23
+2024 03 15
+llegums cuits
+150_20250716
+arros rodo
+marca c
+18
+2025 07 16
+arros
+150_20250610
+arros integral
+marca d
+37
+2025 06 10
+arros
+150_20250808
+arros llarg
+marca e
+13
+2025 08 08
+arros
+297_20240325
+macarrons
+marca c
+80
+2024 03 25
+pasta fresca
+297_20240315
+fideus
+marca e
+50
+2024 03 15
+pasta fresca
+110_20240315
+cigrons
+marca d
+12
+2024 03 15
+llegums cuits
+150_20250716
+arros rodo
+marca c
+21
+2025 07 16
+arros
+270_20240910
+galets
+marca f
+21
+2024 09 10
+pasta
+270_20240315
+fussilli
+marca f
+27
+2024 03 15
+pasta fresca
+297_20240315
+fideus
+marca e
+15
+2024 03 15
+pasta fresca
+110_20240315
+cigrons
+marca d
+10
+2024 03 15
+llegums cuits

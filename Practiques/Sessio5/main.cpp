@@ -8,7 +8,8 @@ Data demanar_data(string missatge){
 string demanar_string(string missatge){
     cout << missatge << endl;
     string aux;
-    cin >> aux;
+    cin.ignore(numeric_limits<streamsize>::max(), '\n');
+    getline(cin, aux);
     return aux;
 }
 
@@ -28,7 +29,7 @@ int demanar_int(string missatge){
 
 void opcions(){
     cout << "OPCIONS: " << endl
-         << "N -> Ordenar pe nom" << endl
+         << "N -> Ordenar per nom" << endl
          << "D -> Ordenar per data" << endl
          << "A -> Actualitzar" << endl
          << "C -> Comanda" << endl
@@ -54,7 +55,7 @@ int main(){
                 Productes(curt).ordenar_per(opcio).mostrar();
                 break;
             case 'A':
-                curt.actualitzar_estructures(llarg, demanar_data("Entra la nova data (any mes dia)"));
+                curt.actualitzar_estructures(llarg, demanar_data("Entra la nova data (any mes dia):"));
                 break;
             case 'C': 
                 cat.mostrar_es_pot_satisfer(demanar_int("Quantitat:"), demanar_string("Categoria:"));
