@@ -6,8 +6,8 @@ using namespace std;
 class Aliment{
     private:
         //Atributs
-        string nom;
-        int unitats;
+        string a_nom;
+        int a_unitats;
 
     public:
         //Operadors
@@ -21,8 +21,6 @@ class Aliment{
         //Pre: --; Post: Aliment creat {nom, unitats}
 
         //Mètodes consultors
-        string unitats() const;
-        //Pre: --; Post: mostra un missatge amb les unitats del producte
 };
 
 #endif // !ALIMENT_H

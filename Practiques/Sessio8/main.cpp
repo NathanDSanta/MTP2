@@ -24,9 +24,11 @@ int main(){
             sortir = true;
             break;
         
-        case 1:
-            banc.afegir_aliment();
+        case 1:{
+            Aliment ins; cin >> ins;
+            banc += ins;
             break;
+        }
         
         case 2:
             banc.servir_aliment();

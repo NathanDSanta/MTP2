@@ -34,6 +34,12 @@ void Magatzem::consultar_aliment() const{
 
 
 //Metodes privats
+void Magatzem::cerca_aliment(const Aliment& a, Node** aux, bool& existeix) const{
+    existeix = false;
+    Node* i = a_inici;
+    while(!existeix && i->seg->valor < a){
+    }
+}
 
 //Operadors
 ostream& operator <<(ostream& o, const Magatzem& m){
@@ -57,6 +63,19 @@ Magatzem& Magatzem::operator =(const Magatzem& m){
 }
 
 Magatzem& Magatzem::operator +=(const Magatzem& m){
+    return *this + m;
+}
+Magatzem& Magatzem::operator +=(const Aliment& a){
+    return *this + a;
+}
+
+Magatzem& Magatzem::operator +(const Magatzem& m){
+    Magatzem aux = *this;
+    Node* i = m.a_inici;
+    while(i != NULL){
+        aux = aux + i->valor;
+    }
+    return aux;
 }
 
 Magatzem& Magatzem::operator +(const Aliment& a){

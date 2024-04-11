@@ -18,8 +18,6 @@ class Magatzem{
         Node* a_inici;
 
         //Mètodes privats
-        void inserir(const Aliment* a);
-        //Pre: --; Post: a inserit a *this;
         void cerca_aliment(const Aliment& a, Node** aux, bool& existeix) const;
         //Pre: --; Post: retorn un punter a la posicio del aliment nom, retorna NULL si no existeix;
 
@@ -28,6 +26,8 @@ class Magatzem{
         friend ostream& operator <<(ostream& o, const Magatzem& m);
         Magatzem& operator =(const Magatzem& m);
         Magatzem& operator +=(const Magatzem& m);
+        Magatzem& operator +=(const Aliment& a);
+        Magatzem& operator +(const Magatzem& m);
         Magatzem& operator +(const Aliment& a);
 
         //Constructors -- Destructors
@@ -43,8 +43,6 @@ class Magatzem{
         //Pre: --; Post: busca un aliment i el mostra si existeix, si no, ens informarà que no existeix.
 
         //Mètodes modificadors
-        void afegir_aliment();
-        //Pre: --; Post: afegeix un aliment a la llista
         void servir_aliment();
         //Pre: --; Post: serveix un aliment de la llista
 };
