@@ -6,8 +6,8 @@ using namespace std;
 class Peticio{
     private:
         //Atributs
-        string nom, id;
-        int hora;
+        string a_nom, a_id;
+        int a_hora;
 
     public:
         //Constructor

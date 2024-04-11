@@ -1,7 +1,7 @@
-#include <CuaPeticions.h>
+#include "CuaPeticions.h"
 
 void opcions(){
-    cout << endl;
+    cout << "OPCIONS:" << endl;
     cout << "1: ENTRAR UNA PETICIO" << endl
          << "2: PROCESSAR UNA RECOLLIDA" << endl
          << "3: MOSTRAR EL MENU D'OPCIONS" << endl
@@ -17,10 +17,10 @@ int demanar_opcio(){
 }
 
 int main(){
-    cout << "BANC D'ALIMENTS" << endl;
+    cout << "BANC DELS ALIMENTS" << endl;
     CuaPeticions llistat;
     bool sortir = false;
-    while(!sortir){
+    while(!sortir && !llistat.dia_acabat()){
         opcions();
         int opcio = demanar_opcio();
         switch (opcio){
@@ -39,6 +39,7 @@ int main(){
             opcions();
             break;
         }
+        cout << endl;
     }
     return 0;
 }

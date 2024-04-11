@@ -1,4 +1,4 @@
-#include <CuaPeticions.h>
+#include "CuaPeticions.h"
 
 CuaPeticions::CuaPeticions(){
     a_inicial = NULL;
@@ -37,8 +37,14 @@ bool CuaPeticions::sense_hores() const{return seg_hora_disponible >= 13;}
 
 void CuaPeticions::afegir(const Peticio& p){
     Node* aux = new Node {p, NULL};
-    a_final->seg = aux;
-    a_final = a_final->seg;
+    if(a_inicial == NULL){
+        a_inicial = aux;
+        a_final = aux;
+    }
+    else {
+        a_final->seg = aux;
+        a_final = a_final->seg;
+    }
 }
 
 void CuaPeticions::nova_peticio(){
@@ -49,13 +55,18 @@ void CuaPeticions::nova_peticio(){
         cout << "ID (DNI / NIE): " << endl;
         string id; cin >> id;
         Peticio p(nom, id, seg_hora_disponible);
+        afegir(p);
         cout << "PETICIO ENREGISTRADA CORRECTAMENT" << endl;
         seg_hora_disponible++;
     }
 }
 
 void CuaPeticions::processar_recollida(){
-    Node* aux = a_inicial;
-    a_inicial = a_inicial->seg;
-    aux->valor.recollida();
+    if(!buida()){
+        Node* aux = a_inicial;
+        a_inicial = a_inicial->seg;
+        aux->valor.recollida();
+        delete aux;
+        if(!dia_acabat()) mostrar();
+    }
 }
