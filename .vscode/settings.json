@@ -5,6 +5,7 @@
         "limits": "cpp",
         "*.tcc": "cpp",
         "vector": "cpp",
-        "new": "cpp"
+        "new": "cpp",
+        "iosfwd": "cpp"
     }
 }

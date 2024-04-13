@@ -18,17 +18,21 @@ class Magatzem{
         Node* a_inici;
 
         //Mètodes privats
-        void cerca_aliment(const Aliment& a, Node** aux, bool& existeix) const;
+        void cerca_aliment(const Aliment& a, Node** aux, Node** antpos, bool& existeix) const;
         //Pre: --; Post: retorn un punter a la posicio del aliment nom, retorna NULL si no existeix;
 
     public:
         //Operadors
         friend ostream& operator <<(ostream& o, const Magatzem& m);
         Magatzem& operator =(const Magatzem& m);
-        Magatzem& operator +=(const Magatzem& m);
-        Magatzem& operator +=(const Aliment& a);
-        Magatzem& operator +(const Magatzem& m);
-        Magatzem& operator +(const Aliment& a);
+        void operator +=(const Magatzem& m);
+        void operator +=(const Aliment& a);
+        Magatzem operator +(const Magatzem& m);
+        Magatzem operator +(const Aliment& a);
+        void operator -=(const Magatzem& m);
+        void operator -=(const Aliment& a);
+        Magatzem operator -(const Magatzem& m);
+        Magatzem operator -(const Aliment& a);
 
         //Constructors -- Destructors
         Magatzem();

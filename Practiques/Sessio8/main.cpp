@@ -25,20 +25,24 @@ int main(){
             break;
         
         case 1:{
+            cout << "[ AFEGIR ALIMENT: ]" << endl;
             Aliment ins; cin >> ins;
             banc += ins;
             break;
         }
         
         case 2:
+            cout << "[ SERVIR ALIMENT: ]" << endl;
             banc.servir_aliment();
             break;
 
         case 3:
+            cout << "[ LLISTAR ALIMENTS: ]" << endl;
             cout << banc;
             break;
 
         case 4:
+            cout << "[ CONSULTAR ALIMENT: ]" << endl;
             banc.consultar_aliment();
             break;
         }
