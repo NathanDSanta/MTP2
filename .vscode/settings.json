@@ -6,6 +6,8 @@
         "*.tcc": "cpp",
         "vector": "cpp",
         "new": "cpp",
-        "iosfwd": "cpp"
+        "iosfwd": "cpp",
+        "compare": "cpp",
+        "random": "cpp"
     }
 }
