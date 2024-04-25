@@ -45,9 +45,8 @@ void Baralla::expandeix(){
 }
 
 int Baralla::aleatori(int valor){
-    int a = 1103515245, c= 12345, m=32768;
-    a_llavor = a*a_llavor + c;
-    return ((a_llavor/32)%m)%valor;
+    a_llavor = 1103515245*a_llavor + 12345;
+    return ((a_llavor/32)%32768)%valor;
 }
 
 void Baralla::barrejar(){
