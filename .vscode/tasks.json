@@ -30,7 +30,7 @@
             "args": [
                 "-fdiagnostics-color=always",
                 "-g",
-                "${file}",
+                "${fileDirname}\\**.cppte",
                 "-o",
                 "${fileDirname}\\${fileBasenameNoExtension}.exe"
             ],
