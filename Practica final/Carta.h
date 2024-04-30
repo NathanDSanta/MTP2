@@ -1,6 +1,7 @@
 #ifndef CARTA_H
 #define CARTA_H
 #include <iostream>
+#include <iomanip>
 using namespace std;
 
 class Carta{
