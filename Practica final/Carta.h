@@ -1,7 +1,6 @@
 #ifndef CARTA_H
 #define CARTA_H
 #include <iostream>
-#include <iomanip>
 using namespace std;
 
 class Carta{
@@ -28,7 +27,7 @@ class Carta{
         static const char VALORS[13];
 
         //Constr
-        Carta(char pal = 'a', int valor = 0, bool visible = true);
+        Carta(char pal = 'a', int valor = 0, bool visible = false);
         //Pre: --; Post: Carta creada amb valors predeterminats modificables  {' ', 0, true}
 
         //Operadors
@@ -37,6 +36,8 @@ class Carta{
         
 
         //Mètodes modificadors
+        void girar();
+        //Pre: --; Post: gira la carta;
         static void intercanviar(Carta& a, Carta& c);
         //Pre: a = A, c = C; post: a = C, c = A;
 
