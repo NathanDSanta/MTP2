@@ -35,6 +35,8 @@ public:
   // Mètodes modificadors
   Baralla &repartir(Baralla &b);
   // Pre: --; Post: cartes de b repartides al taulell i les restants retornades.
+  Taulell &espiar();
+  // Pre: --; Post: Gira totes les cartes del taulell
 
   // Operadors
   Taulell &operator=(const Taulell &t);

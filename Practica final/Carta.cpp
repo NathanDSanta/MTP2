@@ -14,17 +14,6 @@ Carta::Carta(char pal, int valor, bool visible) {
   a_visible = visible;
 }
 
-// OPERADORS
-
-bool Carta::operator<(const Carta &c) const {
-  // Pre: --; Post: retorna si aquesta carta és menor que c, segons l'ordre de
-  // pals i valors respectivament.
-  bool es_menor = pal_menor(c);
-  if (a_pal == c.a_pal)
-    es_menor = a_valor < c.a_valor;
-  return es_menor;
-}
-
 // MÈTODES MODIFICADORS
 
 void Carta::intercanviar(Carta &a, Carta &c) {
@@ -37,6 +26,20 @@ void Carta::intercanviar(Carta &a, Carta &c) {
 void Carta::girar() {
   // Pre: --; Post: gira la carta;
   a_visible = !a_visible;
+}
+
+// MÈTODES CONSULTORS
+bool Carta::visible() const { return a_visible; }
+
+// OPERADORS
+
+bool Carta::operator<(const Carta &c) const {
+  // Pre: --; Post: retorna si aquesta carta és menor que c, segons l'ordre de
+  // pals i valors respectivament.
+  bool es_menor = pal_menor(c);
+  if (a_pal == c.a_pal)
+    es_menor = a_valor < c.a_valor;
+  return es_menor;
 }
 
 // MÈTODES PRIVATS

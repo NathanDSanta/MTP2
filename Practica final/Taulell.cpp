@@ -36,6 +36,16 @@ Baralla &Taulell::repartir(Baralla &b) {
   return b;
 }
 
+Taulell &Taulell::espiar() {
+  for (int i = 0; i < a_nc; i++) {
+    for (int j = 0; j < a_longitud[i]; j++) {
+      if (!a_mat[i][j].visible())
+        a_mat[i][j].girar();
+    }
+  }
+  return *this;
+}
+
 // Mètodes privats
 void Taulell::allibera() {
   // Pre: --; Post: memòria alliberada

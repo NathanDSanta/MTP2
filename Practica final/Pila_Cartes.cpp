@@ -9,6 +9,7 @@ Pila_Cartes::Pila_Cartes() {
 
 Pila_Cartes::Pila_Cartes(const Pila_Cartes &p) {
   // Pre: --; Post: pila és còpia de p
+  a_cim = NULL;
   copia(p);
 }
 
@@ -38,10 +39,12 @@ void Pila_Cartes::allibera() {
 
 void Pila_Cartes::copia(const Pila_Cartes &p) {
   // Pre: --; Post: pila és còpia de p
-  Node *i = a_cim, *j = p.a_cim;
-  a_cim = new Node{j->valor, NULL};
-  i = a_cim->seg;
-  j = j->seg;
+  Node *i, *j = p.a_cim;
+  if (j != NULL) {
+    a_cim = new Node{j->valor, NULL};
+    i = a_cim->seg;
+    j = j->seg;
+  }
   while (j != NULL) {
     i = new Node{j->valor, NULL};
     i = i->seg;

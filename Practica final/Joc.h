@@ -16,6 +16,10 @@ public:
   // Constr - Destr
   Joc();
   // Pre: --; Post: demana llavor i prepara el joc.
+
+  // Mètodes consultors
+  Joc &espiar_tauler();
+  // Pre: --; Post: mostra totes les cartes del tauler de cap per munt
 };
 
 #endif // !JOC_H

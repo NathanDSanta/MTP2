@@ -13,6 +13,12 @@ Joc::Joc() {
   a_ma = a_taulell.repartir(cartes);
 }
 
+// Mètodes modificadors
+Joc &Joc::espiar_tauler() {
+  a_taulell = a_taulell.espiar();
+  return *this;
+}
+
 // Misc
 ostream &operator<<(ostream &o, const Joc &j) {
   o << "ESTAT DEL JOC" << endl;
