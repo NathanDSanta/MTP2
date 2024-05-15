@@ -46,6 +46,17 @@ Taulell &Taulell::espiar() {
   return *this;
 }
 
+void Taulell::posar_carta_ma(int columna, const Carta &c) {
+  expandeix_contrau_fila(columna);
+  a_mat[columna][a_longitud[columna] - 1] = c;
+}
+
+// Mètodes consultors
+bool Taulell::columna_valida(int columna, const Carta &c) const {
+  return columna < a_nc && columna > 0 &&
+         c.encaixen(a_mat[columna][a_longitud[columna] - 1]);
+}
+
 // Mètodes privats
 void Taulell::allibera() {
   // Pre: --; Post: memòria alliberada

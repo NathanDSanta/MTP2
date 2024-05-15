@@ -39,19 +39,31 @@ void Pila_Cartes::allibera() {
 
 void Pila_Cartes::copia(const Pila_Cartes &p) {
   // Pre: --; Post: pila és còpia de p
-  Node *i, *j = p.a_cim;
-  if (j != NULL) {
-    a_cim = new Node{j->valor, NULL};
-    i = a_cim->seg;
-    j = j->seg;
-  }
+  Node *i, *j = p.a_cim, *aux;
+  aux = new Node{j->valor, NULL};
+  a_cim = aux;
+  j = j->seg;
+  i = aux;
   while (j != NULL) {
-    i = new Node{j->valor, NULL};
-    i = i->seg;
+    aux = new Node{j->valor, NULL};
+    i->seg = aux;
+    i = aux;
     j = j->seg;
   }
 }
 
+// Mètodes consultors
+bool Pila_Cartes::buit() const { return a_cim == NULL; }
+
+Carta Pila_Cartes::cim() const {
+  Carta c;
+  if (a_cim != NULL)
+    c = a_cim->valor;
+  else {
+    c = Carta('E');
+  }
+  return c;
+}
 // Operadors
 
 Pila_Cartes &Pila_Cartes::operator=(const Pila_Cartes &p) {
@@ -68,6 +80,14 @@ Pila_Cartes &Pila_Cartes::operator=(Baralla &b) {
   allibera();
   *this = Pila_Cartes(b);
   return *this;
+}
+
+Carta Pila_Cartes::operator--(int) {
+  Carta carta = a_cim->valor;
+  Node *aux = a_cim;
+  a_cim = a_cim->seg;
+  delete aux;
+  return carta;
 }
 
 void Pila_Cartes::operator+=(const Carta &c) {

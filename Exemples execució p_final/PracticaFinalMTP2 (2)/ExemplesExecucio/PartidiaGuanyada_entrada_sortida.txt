@@ -1,0 +1,2409 @@
+ENTRA LA LLAVOR:
+7
+ESTAT DEL JOC
+               **    
+c1 c2 c3 c4 c5 c6 c7 
+Qd ** ** ** ** ** ** f1 
+   Kd ** ** ** ** ** f2 
+      6c ** ** ** ** f3 
+         3P ** ** ** f4 
+            6T ** ** f5 
+               2c ** f6 
+                  JT f7 
+JOC EN CURS
+MENU
+1: OBRIR UNA CARTA (O TORNAR A COMENCAR)
+2: POSAR UNA CARTA (MA->TAULER)
+3: POSAR UNA CARTA (MA->PILA)
+4: MOURE UNA CARTA (TAULER->TAULER)
+5: MOURE UNA CARTA (TAULER->PILA)
+6: RECUPERAR UNA CARTA (PILA->TAULER)
+E: ESPIAR EL TAULER
+M: MOSTRAR EL MENU
+A: ABANDONAR LA PARTIDA
+OPCIO:
+1
+ESTAT DEL JOC
+               ** 4c 
+c1 c2 c3 c4 c5 c6 c7 
+Qd ** ** ** ** ** ** f1 
+   Kd ** ** ** ** ** f2 
+      6c ** ** ** ** f3 
+         3P ** ** ** f4 
+            6T ** ** f5 
+               2c ** f6 
+                  JT f7 
+JOC EN CURS
+OPCIO:
+1
+ESTAT DEL JOC
+               ** 8c 
+c1 c2 c3 c4 c5 c6 c7 
+Qd ** ** ** ** ** ** f1 
+   Kd ** ** ** ** ** f2 
+      6c ** ** ** ** f3 
+         3P ** ** ** f4 
+            6T ** ** f5 
+               2c ** f6 
+                  JT f7 
+JOC EN CURS
+OPCIO:
+1
+ESTAT DEL JOC
+               ** 2T 
+c1 c2 c3 c4 c5 c6 c7 
+Qd ** ** ** ** ** ** f1 
+   Kd ** ** ** ** ** f2 
+      6c ** ** ** ** f3 
+         3P ** ** ** f4 
+            6T ** ** f5 
+               2c ** f6 
+                  JT f7 
+JOC EN CURS
+OPCIO:
+1
+ESTAT DEL JOC
+               ** 7T 
+c1 c2 c3 c4 c5 c6 c7 
+Qd ** ** ** ** ** ** f1 
+   Kd ** ** ** ** ** f2 
+      6c ** ** ** ** f3 
+         3P ** ** ** f4 
+            6T ** ** f5 
+               2c ** f6 
+                  JT f7 
+JOC EN CURS
+OPCIO:
+1
+ESTAT DEL JOC
+               ** Qc 
+c1 c2 c3 c4 c5 c6 c7 
+Qd ** ** ** ** ** ** f1 
+   Kd ** ** ** ** ** f2 
+      6c ** ** ** ** f3 
+         3P ** ** ** f4 
+            6T ** ** f5 
+               2c ** f6 
+                  JT f7 
+JOC EN CURS
+OPCIO:
+1
+ESTAT DEL JOC
+               ** QT 
+c1 c2 c3 c4 c5 c6 c7 
+Qd ** ** ** ** ** ** f1 
+   Kd ** ** ** ** ** f2 
+      6c ** ** ** ** f3 
+         3P ** ** ** f4 
+            6T ** ** f5 
+               2c ** f6 
+                  JT f7 
+JOC EN CURS
+OPCIO:
+1
+ESTAT DEL JOC
+               ** 4P 
+c1 c2 c3 c4 c5 c6 c7 
+Qd ** ** ** ** ** ** f1 
+   Kd ** ** ** ** ** f2 
+      6c ** ** ** ** f3 
+         3P ** ** ** f4 
+            6T ** ** f5 
+               2c ** f6 
+                  JT f7 
+JOC EN CURS
+OPCIO:
+1
+ESTAT DEL JOC
+               ** JP 
+c1 c2 c3 c4 c5 c6 c7 
+Qd ** ** ** ** ** ** f1 
+   Kd ** ** ** ** ** f2 
+      6c ** ** ** ** f3 
+         3P ** ** ** f4 
+            6T ** ** f5 
+               2c ** f6 
+                  JT f7 
+JOC EN CURS
+OPCIO:
+1
+ESTAT DEL JOC
+               ** 4d 
+c1 c2 c3 c4 c5 c6 c7 
+Qd ** ** ** ** ** ** f1 
+   Kd ** ** ** ** ** f2 
+      6c ** ** ** ** f3 
+         3P ** ** ** f4 
+            6T ** ** f5 
+               2c ** f6 
+                  JT f7 
+JOC EN CURS
+OPCIO:
+1
+ESTAT DEL JOC
+               ** KT 
+c1 c2 c3 c4 c5 c6 c7 
+Qd ** ** ** ** ** ** f1 
+   Kd ** ** ** ** ** f2 
+      6c ** ** ** ** f3 
+         3P ** ** ** f4 
+            6T ** ** f5 
+               2c ** f6 
+                  JT f7 
+JOC EN CURS
+OPCIO:
+1
+ESTAT DEL JOC
+               ** 8T 
+c1 c2 c3 c4 c5 c6 c7 
+Qd ** ** ** ** ** ** f1 
+   Kd ** ** ** ** ** f2 
+      6c ** ** ** ** f3 
+         3P ** ** ** f4 
+            6T ** ** f5 
+               2c ** f6 
+                  JT f7 
+JOC EN CURS
+OPCIO:
+1
+ESTAT DEL JOC
+               ** 9c 
+c1 c2 c3 c4 c5 c6 c7 
+Qd ** ** ** ** ** ** f1 
+   Kd ** ** ** ** ** f2 
+      6c ** ** ** ** f3 
+         3P ** ** ** f4 
+            6T ** ** f5 
+               2c ** f6 
+                  JT f7 
+JOC EN CURS
+OPCIO:
+1
+ESTAT DEL JOC
+               ** QP 
+c1 c2 c3 c4 c5 c6 c7 
+Qd ** ** ** ** ** ** f1 
+   Kd ** ** ** ** ** f2 
+      6c ** ** ** ** f3 
+         3P ** ** ** f4 
+            6T ** ** f5 
+               2c ** f6 
+                  JT f7 
+JOC EN CURS
+OPCIO:
+1
+ESTAT DEL JOC
+               ** DT 
+c1 c2 c3 c4 c5 c6 c7 
+Qd ** ** ** ** ** ** f1 
+   Kd ** ** ** ** ** f2 
+      6c ** ** ** ** f3 
+         3P ** ** ** f4 
+            6T ** ** f5 
+               2c ** f6 
+                  JT f7 
+JOC EN CURS
+OPCIO:
+1
+ESTAT DEL JOC
+               ** Jd 
+c1 c2 c3 c4 c5 c6 c7 
+Qd ** ** ** ** ** ** f1 
+   Kd ** ** ** ** ** f2 
+      6c ** ** ** ** f3 
+         3P ** ** ** f4 
+            6T ** ** f5 
+               2c ** f6 
+                  JT f7 
+JOC EN CURS
+OPCIO:
+1
+ESTAT DEL JOC
+               ** Dc 
+c1 c2 c3 c4 c5 c6 c7 
+Qd ** ** ** ** ** ** f1 
+   Kd ** ** ** ** ** f2 
+      6c ** ** ** ** f3 
+         3P ** ** ** f4 
+            6T ** ** f5 
+               2c ** f6 
+                  JT f7 
+JOC EN CURS
+OPCIO:
+1
+ESTAT DEL JOC
+               ** 9d 
+c1 c2 c3 c4 c5 c6 c7 
+Qd ** ** ** ** ** ** f1 
+   Kd ** ** ** ** ** f2 
+      6c ** ** ** ** f3 
+         3P ** ** ** f4 
+            6T ** ** f5 
+               2c ** f6 
+                  JT f7 
+JOC EN CURS
+OPCIO:
+1
+ESTAT DEL JOC
+               ** AT 
+c1 c2 c3 c4 c5 c6 c7 
+Qd ** ** ** ** ** ** f1 
+   Kd ** ** ** ** ** f2 
+      6c ** ** ** ** f3 
+         3P ** ** ** f4 
+            6T ** ** f5 
+               2c ** f6 
+                  JT f7 
+JOC EN CURS
+OPCIO:
+3
+ESTAT DEL JOC
+         AT    ** 9d 
+c1 c2 c3 c4 c5 c6 c7 
+Qd ** ** ** ** ** ** f1 
+   Kd ** ** ** ** ** f2 
+      6c ** ** ** ** f3 
+         3P ** ** ** f4 
+            6T ** ** f5 
+               2c ** f6 
+                  JT f7 
+JOC EN CURS
+OPCIO:
+1
+ESTAT DEL JOC
+         AT    ** 3c 
+c1 c2 c3 c4 c5 c6 c7 
+Qd ** ** ** ** ** ** f1 
+   Kd ** ** ** ** ** f2 
+      6c ** ** ** ** f3 
+         3P ** ** ** f4 
+            6T ** ** f5 
+               2c ** f6 
+                  JT f7 
+JOC EN CURS
+OPCIO:
+1
+ESTAT DEL JOC
+         AT    ** AP 
+c1 c2 c3 c4 c5 c6 c7 
+Qd ** ** ** ** ** ** f1 
+   Kd ** ** ** ** ** f2 
+      6c ** ** ** ** f3 
+         3P ** ** ** f4 
+            6T ** ** f5 
+               2c ** f6 
+                  JT f7 
+JOC EN CURS
+OPCIO:
+3
+ESTAT DEL JOC
+AP       AT    ** 3c 
+c1 c2 c3 c4 c5 c6 c7 
+Qd ** ** ** ** ** ** f1 
+   Kd ** ** ** ** ** f2 
+      6c ** ** ** ** f3 
+         3P ** ** ** f4 
+            6T ** ** f5 
+               2c ** f6 
+                  JT f7 
+JOC EN CURS
+OPCIO:
+1
+ESTAT DEL JOC
+AP       AT    ** Ac 
+c1 c2 c3 c4 c5 c6 c7 
+Qd ** ** ** ** ** ** f1 
+   Kd ** ** ** ** ** f2 
+      6c ** ** ** ** f3 
+         3P ** ** ** f4 
+            6T ** ** f5 
+               2c ** f6 
+                  JT f7 
+JOC EN CURS
+OPCIO:
+3
+ESTAT DEL JOC
+AP Ac    AT    ** 3c 
+c1 c2 c3 c4 c5 c6 c7 
+Qd ** ** ** ** ** ** f1 
+   Kd ** ** ** ** ** f2 
+      6c ** ** ** ** f3 
+         3P ** ** ** f4 
+            6T ** ** f5 
+               2c ** f6 
+                  JT f7 
+JOC EN CURS
+OPCIO:
+5
+ENTRA LA COLUMNA ORIGEN:
+6
+ESTAT DEL JOC
+AP 2c    AT    ** 3c 
+c1 c2 c3 c4 c5 c6 c7 
+Qd ** ** ** ** ** ** f1 
+   Kd ** ** ** ** ** f2 
+      6c ** ** ** ** f3 
+         3P ** ** ** f4 
+            6T DP ** f5 
+                  ** f6 
+                  JT f7 
+JOC EN CURS
+OPCIO:
+1
+ESTAT DEL JOC
+AP 2c    AT    ** 3d 
+c1 c2 c3 c4 c5 c6 c7 
+Qd ** ** ** ** ** ** f1 
+   Kd ** ** ** ** ** f2 
+      6c ** ** ** ** f3 
+         3P ** ** ** f4 
+            6T DP ** f5 
+                  ** f6 
+                  JT f7 
+JOC EN CURS
+OPCIO:
+1
+ESTAT DEL JOC
+AP 2c    AT    ** 9P 
+c1 c2 c3 c4 c5 c6 c7 
+Qd ** ** ** ** ** ** f1 
+   Kd ** ** ** ** ** f2 
+      6c ** ** ** ** f3 
+         3P ** ** ** f4 
+            6T DP ** f5 
+                  ** f6 
+                  JT f7 
+JOC EN CURS
+OPCIO:
+1
+ESTAT DEL JOC
+AP 2c    AT       2d 
+c1 c2 c3 c4 c5 c6 c7 
+Qd ** ** ** ** ** ** f1 
+   Kd ** ** ** ** ** f2 
+      6c ** ** ** ** f3 
+         3P ** ** ** f4 
+            6T DP ** f5 
+                  ** f6 
+                  JT f7 
+JOC EN CURS
+OPCIO:
+1
+ESTAT DEL JOC
+AP 2c    AT    **    
+c1 c2 c3 c4 c5 c6 c7 
+Qd ** ** ** ** ** ** f1 
+   Kd ** ** ** ** ** f2 
+      6c ** ** ** ** f3 
+         3P ** ** ** f4 
+            6T DP ** f5 
+                  ** f6 
+                  JT f7 
+JOC EN CURS
+OPCIO:
+1
+ESTAT DEL JOC
+AP 2c    AT    ** 4c 
+c1 c2 c3 c4 c5 c6 c7 
+Qd ** ** ** ** ** ** f1 
+   Kd ** ** ** ** ** f2 
+      6c ** ** ** ** f3 
+         3P ** ** ** f4 
+            6T DP ** f5 
+                  ** f6 
+                  JT f7 
+JOC EN CURS
+OPCIO:
+1
+ESTAT DEL JOC
+AP 2c    AT    ** 8c 
+c1 c2 c3 c4 c5 c6 c7 
+Qd ** ** ** ** ** ** f1 
+   Kd ** ** ** ** ** f2 
+      6c ** ** ** ** f3 
+         3P ** ** ** f4 
+            6T DP ** f5 
+                  ** f6 
+                  JT f7 
+JOC EN CURS
+OPCIO:
+1
+ESTAT DEL JOC
+AP 2c    AT    ** 2T 
+c1 c2 c3 c4 c5 c6 c7 
+Qd ** ** ** ** ** ** f1 
+   Kd ** ** ** ** ** f2 
+      6c ** ** ** ** f3 
+         3P ** ** ** f4 
+            6T DP ** f5 
+                  ** f6 
+                  JT f7 
+JOC EN CURS
+OPCIO:
+3
+ESTAT DEL JOC
+AP 2c    2T    ** 8c 
+c1 c2 c3 c4 c5 c6 c7 
+Qd ** ** ** ** ** ** f1 
+   Kd ** ** ** ** ** f2 
+      6c ** ** ** ** f3 
+         3P ** ** ** f4 
+            6T DP ** f5 
+                  ** f6 
+                  JT f7 
+JOC EN CURS
+OPCIO:
+1
+ESTAT DEL JOC
+AP 2c    2T    ** 7T 
+c1 c2 c3 c4 c5 c6 c7 
+Qd ** ** ** ** ** ** f1 
+   Kd ** ** ** ** ** f2 
+      6c ** ** ** ** f3 
+         3P ** ** ** f4 
+            6T DP ** f5 
+                  ** f6 
+                  JT f7 
+JOC EN CURS
+OPCIO:
+1
+ESTAT DEL JOC
+AP 2c    2T    ** Qc 
+c1 c2 c3 c4 c5 c6 c7 
+Qd ** ** ** ** ** ** f1 
+   Kd ** ** ** ** ** f2 
+      6c ** ** ** ** f3 
+         3P ** ** ** f4 
+            6T DP ** f5 
+                  ** f6 
+                  JT f7 
+JOC EN CURS
+OPCIO:
+1
+ESTAT DEL JOC
+AP 2c    2T    ** QT 
+c1 c2 c3 c4 c5 c6 c7 
+Qd ** ** ** ** ** ** f1 
+   Kd ** ** ** ** ** f2 
+      6c ** ** ** ** f3 
+         3P ** ** ** f4 
+            6T DP ** f5 
+                  ** f6 
+                  JT f7 
+JOC EN CURS
+OPCIO:
+2
+A QUINA COLUMNA LA VOLS POSAR:
+2
+ESTAT DEL JOC
+AP 2c    2T    ** Qc 
+c1 c2 c3 c4 c5 c6 c7 
+Qd ** ** ** ** ** ** f1 
+   Kd ** ** ** ** ** f2 
+   QT 6c ** ** ** ** f3 
+         3P ** ** ** f4 
+            6T DP ** f5 
+                  ** f6 
+                  JT f7 
+JOC EN CURS
+OPCIO:
+1
+ESTAT DEL JOC
+AP 2c    2T    ** 4P 
+c1 c2 c3 c4 c5 c6 c7 
+Qd ** ** ** ** ** ** f1 
+   Kd ** ** ** ** ** f2 
+   QT 6c ** ** ** ** f3 
+         3P ** ** ** f4 
+            6T DP ** f5 
+                  ** f6 
+                  JT f7 
+JOC EN CURS
+OPCIO:
+1
+ESTAT DEL JOC
+AP 2c    2T    ** JP 
+c1 c2 c3 c4 c5 c6 c7 
+Qd ** ** ** ** ** ** f1 
+   Kd ** ** ** ** ** f2 
+   QT 6c ** ** ** ** f3 
+         3P ** ** ** f4 
+            6T DP ** f5 
+                  ** f6 
+                  JT f7 
+JOC EN CURS
+OPCIO:
+1
+ESTAT DEL JOC
+AP 2c    2T    ** 4d 
+c1 c2 c3 c4 c5 c6 c7 
+Qd ** ** ** ** ** ** f1 
+   Kd ** ** ** ** ** f2 
+   QT 6c ** ** ** ** f3 
+         3P ** ** ** f4 
+            6T DP ** f5 
+                  ** f6 
+                  JT f7 
+JOC EN CURS
+OPCIO:
+1
+ESTAT DEL JOC
+AP 2c    2T    ** KT 
+c1 c2 c3 c4 c5 c6 c7 
+Qd ** ** ** ** ** ** f1 
+   Kd ** ** ** ** ** f2 
+   QT 6c ** ** ** ** f3 
+         3P ** ** ** f4 
+            6T DP ** f5 
+                  ** f6 
+                  JT f7 
+JOC EN CURS
+OPCIO:
+1
+ESTAT DEL JOC
+AP 2c    2T    ** 8T 
+c1 c2 c3 c4 c5 c6 c7 
+Qd ** ** ** ** ** ** f1 
+   Kd ** ** ** ** ** f2 
+   QT 6c ** ** ** ** f3 
+         3P ** ** ** f4 
+            6T DP ** f5 
+                  ** f6 
+                  JT f7 
+JOC EN CURS
+OPCIO:
+1
+ESTAT DEL JOC
+AP 2c    2T    ** 9c 
+c1 c2 c3 c4 c5 c6 c7 
+Qd ** ** ** ** ** ** f1 
+   Kd ** ** ** ** ** f2 
+   QT 6c ** ** ** ** f3 
+         3P ** ** ** f4 
+            6T DP ** f5 
+                  ** f6 
+                  JT f7 
+JOC EN CURS
+OPCIO:
+1
+ESTAT DEL JOC
+AP 2c    2T    ** QP 
+c1 c2 c3 c4 c5 c6 c7 
+Qd ** ** ** ** ** ** f1 
+   Kd ** ** ** ** ** f2 
+   QT 6c ** ** ** ** f3 
+         3P ** ** ** f4 
+            6T DP ** f5 
+                  ** f6 
+                  JT f7 
+JOC EN CURS
+OPCIO:
+1
+ESTAT DEL JOC
+AP 2c    2T    ** DT 
+c1 c2 c3 c4 c5 c6 c7 
+Qd ** ** ** ** ** ** f1 
+   Kd ** ** ** ** ** f2 
+   QT 6c ** ** ** ** f3 
+         3P ** ** ** f4 
+            6T DP ** f5 
+                  ** f6 
+                  JT f7 
+JOC EN CURS
+OPCIO:
+1
+ESTAT DEL JOC
+AP 2c    2T    ** Jd 
+c1 c2 c3 c4 c5 c6 c7 
+Qd ** ** ** ** ** ** f1 
+   Kd ** ** ** ** ** f2 
+   QT 6c ** ** ** ** f3 
+         3P ** ** ** f4 
+            6T DP ** f5 
+                  ** f6 
+                  JT f7 
+JOC EN CURS
+OPCIO:
+2
+A QUINA COLUMNA LA VOLS POSAR:
+2
+ESTAT DEL JOC
+AP 2c    2T    ** DT 
+c1 c2 c3 c4 c5 c6 c7 
+Qd ** ** ** ** ** ** f1 
+   Kd ** ** ** ** ** f2 
+   QT 6c ** ** ** ** f3 
+   Jd    3P ** ** ** f4 
+            6T DP ** f5 
+                  ** f6 
+                  JT f7 
+JOC EN CURS
+OPCIO:
+4
+ENTRA LA COLUMNA ORIGEN I LA FILA ORIGEN:
+6
+5
+ENTRA LA COLUMNA DESTI:
+2
+ESTAT DEL JOC
+AP 2c    2T    ** DT 
+c1 c2 c3 c4 c5 c6 c7 
+Qd ** ** ** ** ** ** f1 
+   Kd ** ** ** ** ** f2 
+   QT 6c ** ** ** ** f3 
+   Jd    3P ** Ad ** f4 
+   DP       6T    ** f5 
+                  ** f6 
+                  JT f7 
+JOC EN CURS
+OPCIO:
+5
+ENTRA LA COLUMNA ORIGEN:
+6
+ESTAT DEL JOC
+AP 2c Ad 2T    ** DT 
+c1 c2 c3 c4 c5 c6 c7 
+Qd ** ** ** ** ** ** f1 
+   Kd ** ** ** ** ** f2 
+   QT 6c ** ** 8P ** f3 
+   Jd    3P **    ** f4 
+   DP       6T    ** f5 
+                  ** f6 
+                  JT f7 
+JOC EN CURS
+OPCIO:
+1
+ESTAT DEL JOC
+AP 2c Ad 2T    ** Dc 
+c1 c2 c3 c4 c5 c6 c7 
+Qd ** ** ** ** ** ** f1 
+   Kd ** ** ** ** ** f2 
+   QT 6c ** ** 8P ** f3 
+   Jd    3P **    ** f4 
+   DP       6T    ** f5 
+                  ** f6 
+                  JT f7 
+JOC EN CURS
+OPCIO:
+1
+ESTAT DEL JOC
+AP 2c Ad 2T    ** 9d 
+c1 c2 c3 c4 c5 c6 c7 
+Qd ** ** ** ** ** ** f1 
+   Kd ** ** ** ** ** f2 
+   QT 6c ** ** 8P ** f3 
+   Jd    3P **    ** f4 
+   DP       6T    ** f5 
+                  ** f6 
+                  JT f7 
+JOC EN CURS
+OPCIO:
+2
+A QUINA COLUMNA LA VOLS POSAR:
+2
+ESTAT DEL JOC
+AP 2c Ad 2T    ** Dc 
+c1 c2 c3 c4 c5 c6 c7 
+Qd ** ** ** ** ** ** f1 
+   Kd ** ** ** ** ** f2 
+   QT 6c ** ** 8P ** f3 
+   Jd    3P **    ** f4 
+   DP       6T    ** f5 
+   9d             ** f6 
+                  JT f7 
+JOC EN CURS
+OPCIO:
+4
+ENTRA LA COLUMNA ORIGEN I LA FILA ORIGEN:
+6
+3
+ENTRA LA COLUMNA DESTI:
+2
+ESTAT DEL JOC
+AP 2c Ad 2T    ** Dc 
+c1 c2 c3 c4 c5 c6 c7 
+Qd ** ** ** ** ** ** f1 
+   Kd ** ** ** 3T ** f2 
+   QT 6c ** **    ** f3 
+   Jd    3P **    ** f4 
+   DP       6T    ** f5 
+   9d             ** f6 
+   8P             JT f7 
+JOC EN CURS
+OPCIO:
+5
+ENTRA LA COLUMNA ORIGEN:
+6
+ESTAT DEL JOC
+AP 2c Ad 3T    ** Dc 
+c1 c2 c3 c4 c5 c6 c7 
+Qd ** ** ** ** 7c ** f1 
+   Kd ** ** **    ** f2 
+   QT 6c ** **    ** f3 
+   Jd    3P **    ** f4 
+   DP       6T    ** f5 
+   9d             ** f6 
+   8P             JT f7 
+JOC EN CURS
+OPCIO:
+4
+ENTRA LA COLUMNA ORIGEN I LA FILA ORIGEN:
+5
+5
+ENTRA LA COLUMNA DESTI:
+6
+ESTAT DEL JOC
+AP 2c Ad 3T    ** Dc 
+c1 c2 c3 c4 c5 c6 c7 
+Qd ** ** ** ** 7c ** f1 
+   Kd ** ** ** 6T ** f2 
+   QT 6c ** **    ** f3 
+   Jd    3P 8d    ** f4 
+   DP             ** f5 
+   9d             ** f6 
+   8P             JT f7 
+JOC EN CURS
+OPCIO:
+4
+ENTRA LA COLUMNA ORIGEN I LA FILA ORIGEN:
+6
+1
+ENTRA LA COLUMNA DESTI:
+2
+ESTAT DEL JOC
+AP 2c Ad 3T    ** Dc 
+c1 c2 c3 c4 c5 c6 c7 
+Qd ** ** ** **    ** f1 
+   Kd ** ** **    ** f2 
+   QT 6c ** **    ** f3 
+   Jd    3P 8d    ** f4 
+   DP             ** f5 
+   9d             ** f6 
+   8P             JT f7 
+   7c                f8 
+   6T                f9 
+JOC EN CURS
+OPCIO:
+2
+A QUINA COLUMNA LA VOLS POSAR:
+7
+ESTAT DEL JOC
+AP 2c Ad 3T    ** DT 
+c1 c2 c3 c4 c5 c6 c7 
+Qd ** ** ** **    ** f1 
+   Kd ** ** **    ** f2 
+   QT 6c ** **    ** f3 
+   Jd    3P 8d    ** f4 
+   DP             ** f5 
+   9d             ** f6 
+   8P             JT f7 
+   7c             Dc f8 
+   6T                f9 
+JOC EN CURS
+OPCIO:
+1
+ESTAT DEL JOC
+AP 2c Ad 3T    ** 3c 
+c1 c2 c3 c4 c5 c6 c7 
+Qd ** ** ** **    ** f1 
+   Kd ** ** **    ** f2 
+   QT 6c ** **    ** f3 
+   Jd    3P 8d    ** f4 
+   DP             ** f5 
+   9d             ** f6 
+   8P             JT f7 
+   7c             Dc f8 
+   6T                f9 
+JOC EN CURS
+OPCIO:
+1
+ESTAT DEL JOC
+AP 2c Ad 3T    ** 3d 
+c1 c2 c3 c4 c5 c6 c7 
+Qd ** ** ** **    ** f1 
+   Kd ** ** **    ** f2 
+   QT 6c ** **    ** f3 
+   Jd    3P 8d    ** f4 
+   DP             ** f5 
+   9d             ** f6 
+   8P             JT f7 
+   7c             Dc f8 
+   6T                f9 
+JOC EN CURS
+OPCIO:
+1
+ESTAT DEL JOC
+AP 2c Ad 3T    ** 9P 
+c1 c2 c3 c4 c5 c6 c7 
+Qd ** ** ** **    ** f1 
+   Kd ** ** **    ** f2 
+   QT 6c ** **    ** f3 
+   Jd    3P 8d    ** f4 
+   DP             ** f5 
+   9d             ** f6 
+   8P             JT f7 
+   7c             Dc f8 
+   6T                f9 
+JOC EN CURS
+OPCIO:
+1
+ESTAT DEL JOC
+AP 2c Ad 3T       2d 
+c1 c2 c3 c4 c5 c6 c7 
+Qd ** ** ** **    ** f1 
+   Kd ** ** **    ** f2 
+   QT 6c ** **    ** f3 
+   Jd    3P 8d    ** f4 
+   DP             ** f5 
+   9d             ** f6 
+   8P             JT f7 
+   7c             Dc f8 
+   6T                f9 
+JOC EN CURS
+OPCIO:
+1
+ESTAT DEL JOC
+AP 2c Ad 3T    **    
+c1 c2 c3 c4 c5 c6 c7 
+Qd ** ** ** **    ** f1 
+   Kd ** ** **    ** f2 
+   QT 6c ** **    ** f3 
+   Jd    3P 8d    ** f4 
+   DP             ** f5 
+   9d             ** f6 
+   8P             JT f7 
+   7c             Dc f8 
+   6T                f9 
+JOC EN CURS
+OPCIO:
+1
+ESTAT DEL JOC
+AP 2c Ad 3T    ** 4c 
+c1 c2 c3 c4 c5 c6 c7 
+Qd ** ** ** **    ** f1 
+   Kd ** ** **    ** f2 
+   QT 6c ** **    ** f3 
+   Jd    3P 8d    ** f4 
+   DP             ** f5 
+   9d             ** f6 
+   8P             JT f7 
+   7c             Dc f8 
+   6T                f9 
+JOC EN CURS
+OPCIO:
+1
+ESTAT DEL JOC
+AP 2c Ad 3T    ** 8c 
+c1 c2 c3 c4 c5 c6 c7 
+Qd ** ** ** **    ** f1 
+   Kd ** ** **    ** f2 
+   QT 6c ** **    ** f3 
+   Jd    3P 8d    ** f4 
+   DP             ** f5 
+   9d             ** f6 
+   8P             JT f7 
+   7c             Dc f8 
+   6T                f9 
+JOC EN CURS
+OPCIO:
+1
+ESTAT DEL JOC
+AP 2c Ad 3T    ** 7T 
+c1 c2 c3 c4 c5 c6 c7 
+Qd ** ** ** **    ** f1 
+   Kd ** ** **    ** f2 
+   QT 6c ** **    ** f3 
+   Jd    3P 8d    ** f4 
+   DP             ** f5 
+   9d             ** f6 
+   8P             JT f7 
+   7c             Dc f8 
+   6T                f9 
+JOC EN CURS
+OPCIO:
+2
+A QUINA COLUMNA LA VOLS POSAR:
+5
+ESTAT DEL JOC
+AP 2c Ad 3T    ** 8c 
+c1 c2 c3 c4 c5 c6 c7 
+Qd ** ** ** **    ** f1 
+   Kd ** ** **    ** f2 
+   QT 6c ** **    ** f3 
+   Jd    3P 8d    ** f4 
+   DP       7T    ** f5 
+   9d             ** f6 
+   8P             JT f7 
+   7c             Dc f8 
+   6T                f9 
+JOC EN CURS
+OPCIO:
+4
+ENTRA LA COLUMNA ORIGEN I LA FILA ORIGEN:
+3
+3
+ENTRA LA COLUMNA DESTI:
+5
+ESTAT DEL JOC
+AP 2c Ad 3T    ** 8c 
+c1 c2 c3 c4 c5 c6 c7 
+Qd ** ** ** **    ** f1 
+   Kd 6P ** **    ** f2 
+   QT    ** **    ** f3 
+   Jd    3P 8d    ** f4 
+   DP       7T    ** f5 
+   9d       6c    ** f6 
+   8P             JT f7 
+   7c             Dc f8 
+   6T                f9 
+JOC EN CURS
+OPCIO:
+4
+ENTRA LA COLUMNA ORIGEN I LA FILA ORIGEN:
+2
+2
+ENTRA LA COLUMNA DESTI:
+6
+ESTAT DEL JOC
+AP 2c Ad 3T    ** 8c 
+c1 c2 c3 c4 c5 c6 c7 
+Qd 7d ** ** ** Kd ** f1 
+      6P ** ** QT ** f2 
+         ** ** Jd ** f3 
+         3P 8d DP ** f4 
+            7T 9d ** f5 
+            6c 8P ** f6 
+               7c JT f7 
+               6T Dc f8 
+JOC EN CURS
+OPCIO:
+4
+ENTRA LA COLUMNA ORIGEN I LA FILA ORIGEN:
+3
+2
+ENTRA LA COLUMNA DESTI:
+2
+ESTAT DEL JOC
+AP 2c Ad 3T    ** 8c 
+c1 c2 c3 c4 c5 c6 c7 
+Qd 7d 2P ** ** Kd ** f1 
+   6P    ** ** QT ** f2 
+         ** ** Jd ** f3 
+         3P 8d DP ** f4 
+            7T 9d ** f5 
+            6c 8P ** f6 
+               7c JT f7 
+               6T Dc f8 
+JOC EN CURS
+OPCIO:
+5
+ENTRA LA COLUMNA ORIGEN:
+3
+ESTAT DEL JOC
+2P 2c Ad 3T    ** 8c 
+c1 c2 c3 c4 c5 c6 c7 
+Qd 7d    ** ** Kd ** f1 
+   6P    ** ** QT ** f2 
+         ** ** Jd ** f3 
+         3P 8d DP ** f4 
+            7T 9d ** f5 
+            6c 8P ** f6 
+               7c JT f7 
+               6T Dc f8 
+JOC EN CURS
+OPCIO:
+5
+ENTRA LA COLUMNA ORIGEN:
+4
+ESTAT DEL JOC
+3P 2c Ad 3T    ** 8c 
+c1 c2 c3 c4 c5 c6 c7 
+Qd 7d    ** ** Kd ** f1 
+   6P    ** ** QT ** f2 
+         5d ** Jd ** f3 
+            8d DP ** f4 
+            7T 9d ** f5 
+            6c 8P ** f6 
+               7c JT f7 
+               6T Dc f8 
+JOC EN CURS
+OPCIO:
+1
+ESTAT DEL JOC
+3P 2c Ad 3T    ** Qc 
+c1 c2 c3 c4 c5 c6 c7 
+Qd 7d    ** ** Kd ** f1 
+   6P    ** ** QT ** f2 
+         5d ** Jd ** f3 
+            8d DP ** f4 
+            7T 9d ** f5 
+            6c 8P ** f6 
+               7c JT f7 
+               6T Dc f8 
+JOC EN CURS
+OPCIO:
+1
+ESTAT DEL JOC
+3P 2c Ad 3T    ** 4P 
+c1 c2 c3 c4 c5 c6 c7 
+Qd 7d    ** ** Kd ** f1 
+   6P    ** ** QT ** f2 
+         5d ** Jd ** f3 
+            8d DP ** f4 
+            7T 9d ** f5 
+            6c 8P ** f6 
+               7c JT f7 
+               6T Dc f8 
+JOC EN CURS
+OPCIO:
+1
+ESTAT DEL JOC
+3P 2c Ad 3T    ** JP 
+c1 c2 c3 c4 c5 c6 c7 
+Qd 7d    ** ** Kd ** f1 
+   6P    ** ** QT ** f2 
+         5d ** Jd ** f3 
+            8d DP ** f4 
+            7T 9d ** f5 
+            6c 8P ** f6 
+               7c JT f7 
+               6T Dc f8 
+JOC EN CURS
+OPCIO:
+1
+ESTAT DEL JOC
+3P 2c Ad 3T    ** 4d 
+c1 c2 c3 c4 c5 c6 c7 
+Qd 7d    ** ** Kd ** f1 
+   6P    ** ** QT ** f2 
+         5d ** Jd ** f3 
+            8d DP ** f4 
+            7T 9d ** f5 
+            6c 8P ** f6 
+               7c JT f7 
+               6T Dc f8 
+JOC EN CURS
+OPCIO:
+1
+ESTAT DEL JOC
+3P 2c Ad 3T    ** KT 
+c1 c2 c3 c4 c5 c6 c7 
+Qd 7d    ** ** Kd ** f1 
+   6P    ** ** QT ** f2 
+         5d ** Jd ** f3 
+            8d DP ** f4 
+            7T 9d ** f5 
+            6c 8P ** f6 
+               7c JT f7 
+               6T Dc f8 
+JOC EN CURS
+OPCIO:
+1
+ESTAT DEL JOC
+3P 2c Ad 3T    ** 8T 
+c1 c2 c3 c4 c5 c6 c7 
+Qd 7d    ** ** Kd ** f1 
+   6P    ** ** QT ** f2 
+         5d ** Jd ** f3 
+            8d DP ** f4 
+            7T 9d ** f5 
+            6c 8P ** f6 
+               7c JT f7 
+               6T Dc f8 
+JOC EN CURS
+OPCIO:
+1
+ESTAT DEL JOC
+3P 2c Ad 3T    ** 9c 
+c1 c2 c3 c4 c5 c6 c7 
+Qd 7d    ** ** Kd ** f1 
+   6P    ** ** QT ** f2 
+         5d ** Jd ** f3 
+            8d DP ** f4 
+            7T 9d ** f5 
+            6c 8P ** f6 
+               7c JT f7 
+               6T Dc f8 
+JOC EN CURS
+OPCIO:
+1
+ESTAT DEL JOC
+3P 2c Ad 3T    ** QP 
+c1 c2 c3 c4 c5 c6 c7 
+Qd 7d    ** ** Kd ** f1 
+   6P    ** ** QT ** f2 
+         5d ** Jd ** f3 
+            8d DP ** f4 
+            7T 9d ** f5 
+            6c 8P ** f6 
+               7c JT f7 
+               6T Dc f8 
+JOC EN CURS
+OPCIO:
+1
+ESTAT DEL JOC
+3P 2c Ad 3T    ** DT 
+c1 c2 c3 c4 c5 c6 c7 
+Qd 7d    ** ** Kd ** f1 
+   6P    ** ** QT ** f2 
+         5d ** Jd ** f3 
+            8d DP ** f4 
+            7T 9d ** f5 
+            6c 8P ** f6 
+               7c JT f7 
+               6T Dc f8 
+JOC EN CURS
+OPCIO:
+1
+ESTAT DEL JOC
+3P 2c Ad 3T    ** 3c 
+c1 c2 c3 c4 c5 c6 c7 
+Qd 7d    ** ** Kd ** f1 
+   6P    ** ** QT ** f2 
+         5d ** Jd ** f3 
+            8d DP ** f4 
+            7T 9d ** f5 
+            6c 8P ** f6 
+               7c JT f7 
+               6T Dc f8 
+JOC EN CURS
+OPCIO:
+3
+ESTAT DEL JOC
+3P 3c Ad 3T    ** DT 
+c1 c2 c3 c4 c5 c6 c7 
+Qd 7d    ** ** Kd ** f1 
+   6P    ** ** QT ** f2 
+         5d ** Jd ** f3 
+            8d DP ** f4 
+            7T 9d ** f5 
+            6c 8P ** f6 
+               7c JT f7 
+               6T Dc f8 
+JOC EN CURS
+OPCIO:
+1
+ESTAT DEL JOC
+3P 3c Ad 3T    ** 3d 
+c1 c2 c3 c4 c5 c6 c7 
+Qd 7d    ** ** Kd ** f1 
+   6P    ** ** QT ** f2 
+         5d ** Jd ** f3 
+            8d DP ** f4 
+            7T 9d ** f5 
+            6c 8P ** f6 
+               7c JT f7 
+               6T Dc f8 
+JOC EN CURS
+OPCIO:
+1
+ESTAT DEL JOC
+3P 3c Ad 3T    ** 9P 
+c1 c2 c3 c4 c5 c6 c7 
+Qd 7d    ** ** Kd ** f1 
+   6P    ** ** QT ** f2 
+         5d ** Jd ** f3 
+            8d DP ** f4 
+            7T 9d ** f5 
+            6c 8P ** f6 
+               7c JT f7 
+               6T Dc f8 
+JOC EN CURS
+OPCIO:
+1
+ESTAT DEL JOC
+3P 3c Ad 3T       2d 
+c1 c2 c3 c4 c5 c6 c7 
+Qd 7d    ** ** Kd ** f1 
+   6P    ** ** QT ** f2 
+         5d ** Jd ** f3 
+            8d DP ** f4 
+            7T 9d ** f5 
+            6c 8P ** f6 
+               7c JT f7 
+               6T Dc f8 
+JOC EN CURS
+OPCIO:
+3
+ESTAT DEL JOC
+3P 3c 2d 3T       9P 
+c1 c2 c3 c4 c5 c6 c7 
+Qd 7d    ** ** Kd ** f1 
+   6P    ** ** QT ** f2 
+         5d ** Jd ** f3 
+            8d DP ** f4 
+            7T 9d ** f5 
+            6c 8P ** f6 
+               7c JT f7 
+               6T Dc f8 
+JOC EN CURS
+OPCIO:
+2
+A QUINA COLUMNA LA VOLS POSAR:
+7
+ESTAT DEL JOC
+3P 3c 2d 3T       3d 
+c1 c2 c3 c4 c5 c6 c7 
+Qd 7d    ** ** Kd ** f1 
+   6P    ** ** QT ** f2 
+         5d ** Jd ** f3 
+            8d DP ** f4 
+            7T 9d ** f5 
+            6c 8P ** f6 
+               7c JT f7 
+               6T Dc f8 
+                  9P f9 
+JOC EN CURS
+OPCIO:
+4
+ENTRA LA COLUMNA ORIGEN I LA FILA ORIGEN:
+5
+4
+ENTRA LA COLUMNA DESTI:
+7
+ESTAT DEL JOC
+3P 3c 2d 3T       3d 
+c1 c2 c3 c4 c5 c6 c7 
+Qd 7d    ** ** Kd ** f1 
+   6P    ** ** QT ** f2 
+         5d 9T Jd ** f3 
+               DP ** f4 
+               9d ** f5 
+               8P ** f6 
+               7c JT f7 
+               6T Dc f8 
+                  9P f9 
+                  8d f10
+                  7T f11
+                  6c f12
+JOC EN CURS
+OPCIO:
+3
+ESTAT DEL JOC
+3P 3c 3d 3T       DT 
+c1 c2 c3 c4 c5 c6 c7 
+Qd 7d    ** ** Kd ** f1 
+   6P    ** ** QT ** f2 
+         5d 9T Jd ** f3 
+               DP ** f4 
+               9d ** f5 
+               8P ** f6 
+               7c JT f7 
+               6T Dc f8 
+                  9P f9 
+                  8d f10
+                  7T f11
+                  6c f12
+JOC EN CURS
+OPCIO:
+1
+ESTAT DEL JOC
+3P 3c 3d 3T    **    
+c1 c2 c3 c4 c5 c6 c7 
+Qd 7d    ** ** Kd ** f1 
+   6P    ** ** QT ** f2 
+         5d 9T Jd ** f3 
+               DP ** f4 
+               9d ** f5 
+               8P ** f6 
+               7c JT f7 
+               6T Dc f8 
+                  9P f9 
+                  8d f10
+                  7T f11
+                  6c f12
+JOC EN CURS
+OPCIO:
+1
+ESTAT DEL JOC
+3P 3c 3d 3T    ** 4c 
+c1 c2 c3 c4 c5 c6 c7 
+Qd 7d    ** ** Kd ** f1 
+   6P    ** ** QT ** f2 
+         5d 9T Jd ** f3 
+               DP ** f4 
+               9d ** f5 
+               8P ** f6 
+               7c JT f7 
+               6T Dc f8 
+                  9P f9 
+                  8d f10
+                  7T f11
+                  6c f12
+JOC EN CURS
+OPCIO:
+3
+ESTAT DEL JOC
+3P 4c 3d 3T    **    
+c1 c2 c3 c4 c5 c6 c7 
+Qd 7d    ** ** Kd ** f1 
+   6P    ** ** QT ** f2 
+         5d 9T Jd ** f3 
+               DP ** f4 
+               9d ** f5 
+               8P ** f6 
+               7c JT f7 
+               6T Dc f8 
+                  9P f9 
+                  8d f10
+                  7T f11
+                  6c f12
+JOC EN CURS
+OPCIO:
+1
+ESTAT DEL JOC
+3P 4c 3d 3T    ** 8c 
+c1 c2 c3 c4 c5 c6 c7 
+Qd 7d    ** ** Kd ** f1 
+   6P    ** ** QT ** f2 
+         5d 9T Jd ** f3 
+               DP ** f4 
+               9d ** f5 
+               8P ** f6 
+               7c JT f7 
+               6T Dc f8 
+                  9P f9 
+                  8d f10
+                  7T f11
+                  6c f12
+JOC EN CURS
+OPCIO:
+1
+ESTAT DEL JOC
+3P 4c 3d 3T    ** Qc 
+c1 c2 c3 c4 c5 c6 c7 
+Qd 7d    ** ** Kd ** f1 
+   6P    ** ** QT ** f2 
+         5d 9T Jd ** f3 
+               DP ** f4 
+               9d ** f5 
+               8P ** f6 
+               7c JT f7 
+               6T Dc f8 
+                  9P f9 
+                  8d f10
+                  7T f11
+                  6c f12
+JOC EN CURS
+OPCIO:
+1
+ESTAT DEL JOC
+3P 4c 3d 3T    ** 4P 
+c1 c2 c3 c4 c5 c6 c7 
+Qd 7d    ** ** Kd ** f1 
+   6P    ** ** QT ** f2 
+         5d 9T Jd ** f3 
+               DP ** f4 
+               9d ** f5 
+               8P ** f6 
+               7c JT f7 
+               6T Dc f8 
+                  9P f9 
+                  8d f10
+                  7T f11
+                  6c f12
+JOC EN CURS
+OPCIO:
+3
+ESTAT DEL JOC
+4P 4c 3d 3T    ** Qc 
+c1 c2 c3 c4 c5 c6 c7 
+Qd 7d    ** ** Kd ** f1 
+   6P    ** ** QT ** f2 
+         5d 9T Jd ** f3 
+               DP ** f4 
+               9d ** f5 
+               8P ** f6 
+               7c JT f7 
+               6T Dc f8 
+                  9P f9 
+                  8d f10
+                  7T f11
+                  6c f12
+JOC EN CURS
+OPCIO:
+1
+ESTAT DEL JOC
+4P 4c 3d 3T    ** JP 
+c1 c2 c3 c4 c5 c6 c7 
+Qd 7d    ** ** Kd ** f1 
+   6P    ** ** QT ** f2 
+         5d 9T Jd ** f3 
+               DP ** f4 
+               9d ** f5 
+               8P ** f6 
+               7c JT f7 
+               6T Dc f8 
+                  9P f9 
+                  8d f10
+                  7T f11
+                  6c f12
+JOC EN CURS
+OPCIO:
+1
+ESTAT DEL JOC
+4P 4c 3d 3T    ** 4d 
+c1 c2 c3 c4 c5 c6 c7 
+Qd 7d    ** ** Kd ** f1 
+   6P    ** ** QT ** f2 
+         5d 9T Jd ** f3 
+               DP ** f4 
+               9d ** f5 
+               8P ** f6 
+               7c JT f7 
+               6T Dc f8 
+                  9P f9 
+                  8d f10
+                  7T f11
+                  6c f12
+JOC EN CURS
+OPCIO:
+3
+ESTAT DEL JOC
+4P 4c 4d 3T    ** JP 
+c1 c2 c3 c4 c5 c6 c7 
+Qd 7d    ** ** Kd ** f1 
+   6P    ** ** QT ** f2 
+         5d 9T Jd ** f3 
+               DP ** f4 
+               9d ** f5 
+               8P ** f6 
+               7c JT f7 
+               6T Dc f8 
+                  9P f9 
+                  8d f10
+                  7T f11
+                  6c f12
+JOC EN CURS
+OPCIO:
+4
+ENTRA LA COLUMNA ORIGEN I LA FILA ORIGEN:
+7
+7
+ENTRA LA COLUMNA DESTI:
+1
+ESTAT DEL JOC
+4P 4c 4d 3T    ** JP 
+c1 c2 c3 c4 c5 c6 c7 
+Qd 7d    ** ** Kd ** f1 
+JT 6P    ** ** QT ** f2 
+Dc       5d 9T Jd ** f3 
+9P             DP ** f4 
+8d             9d ** f5 
+7T             8P 5P f6 
+6c             7c    f7 
+               6T    f8 
+JOC EN CURS
+OPCIO:
+5
+ENTRA LA COLUMNA ORIGEN:
+7
+ESTAT DEL JOC
+5P 4c 4d 3T    ** JP 
+c1 c2 c3 c4 c5 c6 c7 
+Qd 7d    ** ** Kd ** f1 
+JT 6P    ** ** QT ** f2 
+Dc       5d 9T Jd ** f3 
+9P             DP ** f4 
+8d             9d 5T f5 
+7T             8P    f6 
+6c             7c    f7 
+               6T    f8 
+JOC EN CURS
+OPCIO:
+5
+ENTRA LA COLUMNA ORIGEN:
+7
+LA CARTA NO ES POT APILAR
+ESTAT DEL JOC
+5P 4c 4d 3T    ** JP 
+c1 c2 c3 c4 c5 c6 c7 
+Qd 7d    ** ** Kd ** f1 
+JT 6P    ** ** QT ** f2 
+Dc       5d 9T Jd ** f3 
+9P             DP ** f4 
+8d             9d 5T f5 
+7T             8P    f6 
+6c             7c    f7 
+               6T    f8 
+JOC EN CURS
+OPCIO:
+4
+ENTRA LA COLUMNA ORIGEN I LA FILA ORIGEN:
+7
+5
+ENTRA LA COLUMNA DESTI:
+1
+ESTAT DEL JOC
+5P 4c 4d 3T    ** JP 
+c1 c2 c3 c4 c5 c6 c7 
+Qd 7d    ** ** Kd ** f1 
+JT 6P    ** ** QT ** f2 
+Dc       5d 9T Jd ** f3 
+9P             DP Dd f4 
+8d             9d    f5 
+7T             8P    f6 
+6c             7c    f7 
+5T             6T    f8 
+JOC EN CURS
+OPCIO:
+4
+ENTRA LA COLUMNA ORIGEN I LA FILA ORIGEN:
+4
+3
+ENTRA LA COLUMNA DESTI:
+6
+ESTAT DEL JOC
+5P 4c 4d 3T    ** JP 
+c1 c2 c3 c4 c5 c6 c7 
+Qd 7d    ** ** Kd ** f1 
+JT 6P    Kc ** QT ** f2 
+Dc          9T Jd ** f3 
+9P             DP Dd f4 
+8d             9d    f5 
+7T             8P    f6 
+6c             7c    f7 
+5T             6T    f8 
+               5d    f9 
+JOC EN CURS
+OPCIO:
+4
+ENTRA LA COLUMNA ORIGEN I LA FILA ORIGEN:
+4
+2
+ENTRA LA COLUMNA DESTI:
+3
+ESTAT DEL JOC
+5P 4c 4d 3T    ** JP 
+c1 c2 c3 c4 c5 c6 c7 
+Qd 7d Kc KP ** Kd ** f1 
+JT 6P       ** QT ** f2 
+Dc          9T Jd ** f3 
+9P             DP Dd f4 
+8d             9d    f5 
+7T             8P    f6 
+6c             7c    f7 
+5T             6T    f8 
+               5d    f9 
+JOC EN CURS
+OPCIO:
+4
+ENTRA LA COLUMNA ORIGEN I LA FILA ORIGEN:
+5
+3
+ENTRA LA COLUMNA DESTI:
+7
+ESTAT DEL JOC
+5P 4c 4d 3T    ** JP 
+c1 c2 c3 c4 c5 c6 c7 
+Qd 7d Kc KP ** Kd ** f1 
+JT 6P       7P QT ** f2 
+Dc             Jd ** f3 
+9P             DP Dd f4 
+8d             9d 9T f5 
+7T             8P    f6 
+6c             7c    f7 
+5T             6T    f8 
+               5d    f9 
+JOC EN CURS
+OPCIO:
+1
+ESTAT DEL JOC
+5P 4c 4d 3T    ** KT 
+c1 c2 c3 c4 c5 c6 c7 
+Qd 7d Kc KP ** Kd ** f1 
+JT 6P       7P QT ** f2 
+Dc             Jd ** f3 
+9P             DP Dd f4 
+8d             9d 9T f5 
+7T             8P    f6 
+6c             7c    f7 
+5T             6T    f8 
+               5d    f9 
+JOC EN CURS
+OPCIO:
+1
+ESTAT DEL JOC
+5P 4c 4d 3T    ** 8T 
+c1 c2 c3 c4 c5 c6 c7 
+Qd 7d Kc KP ** Kd ** f1 
+JT 6P       7P QT ** f2 
+Dc             Jd ** f3 
+9P             DP Dd f4 
+8d             9d 9T f5 
+7T             8P    f6 
+6c             7c    f7 
+5T             6T    f8 
+               5d    f9 
+JOC EN CURS
+OPCIO:
+1
+ESTAT DEL JOC
+5P 4c 4d 3T    ** 9c 
+c1 c2 c3 c4 c5 c6 c7 
+Qd 7d Kc KP ** Kd ** f1 
+JT 6P       7P QT ** f2 
+Dc             Jd ** f3 
+9P             DP Dd f4 
+8d             9d 9T f5 
+7T             8P    f6 
+6c             7c    f7 
+5T             6T    f8 
+               5d    f9 
+JOC EN CURS
+OPCIO:
+1
+ESTAT DEL JOC
+5P 4c 4d 3T    ** QP 
+c1 c2 c3 c4 c5 c6 c7 
+Qd 7d Kc KP ** Kd ** f1 
+JT 6P       7P QT ** f2 
+Dc             Jd ** f3 
+9P             DP Dd f4 
+8d             9d 9T f5 
+7T             8P    f6 
+6c             7c    f7 
+5T             6T    f8 
+               5d    f9 
+JOC EN CURS
+OPCIO:
+1
+ESTAT DEL JOC
+5P 4c 4d 3T       DT 
+c1 c2 c3 c4 c5 c6 c7 
+Qd 7d Kc KP ** Kd ** f1 
+JT 6P       7P QT ** f2 
+Dc             Jd ** f3 
+9P             DP Dd f4 
+8d             9d 9T f5 
+7T             8P    f6 
+6c             7c    f7 
+5T             6T    f8 
+               5d    f9 
+JOC EN CURS
+OPCIO:
+1
+ESTAT DEL JOC
+5P 4c 4d 3T    **    
+c1 c2 c3 c4 c5 c6 c7 
+Qd 7d Kc KP ** Kd ** f1 
+JT 6P       7P QT ** f2 
+Dc             Jd ** f3 
+9P             DP Dd f4 
+8d             9d 9T f5 
+7T             8P    f6 
+6c             7c    f7 
+5T             6T    f8 
+               5d    f9 
+JOC EN CURS
+OPCIO:
+1
+ESTAT DEL JOC
+5P 4c 4d 3T    ** 8c 
+c1 c2 c3 c4 c5 c6 c7 
+Qd 7d Kc KP ** Kd ** f1 
+JT 6P       7P QT ** f2 
+Dc             Jd ** f3 
+9P             DP Dd f4 
+8d             9d 9T f5 
+7T             8P    f6 
+6c             7c    f7 
+5T             6T    f8 
+               5d    f9 
+JOC EN CURS
+OPCIO:
+1
+ESTAT DEL JOC
+5P 4c 4d 3T    ** Qc 
+c1 c2 c3 c4 c5 c6 c7 
+Qd 7d Kc KP ** Kd ** f1 
+JT 6P       7P QT ** f2 
+Dc             Jd ** f3 
+9P             DP Dd f4 
+8d             9d 9T f5 
+7T             8P    f6 
+6c             7c    f7 
+5T             6T    f8 
+               5d    f9 
+JOC EN CURS
+OPCIO:
+2
+A QUINA COLUMNA LA VOLS POSAR:
+4
+ESTAT DEL JOC
+5P 4c 4d 3T    ** 8c 
+c1 c2 c3 c4 c5 c6 c7 
+Qd 7d Kc KP ** Kd ** f1 
+JT 6P    Qc 7P QT ** f2 
+Dc             Jd ** f3 
+9P             DP Dd f4 
+8d             9d 9T f5 
+7T             8P    f6 
+6c             7c    f7 
+5T             6T    f8 
+               5d    f9 
+JOC EN CURS
+OPCIO:
+1
+ESTAT DEL JOC
+5P 4c 4d 3T    ** JP 
+c1 c2 c3 c4 c5 c6 c7 
+Qd 7d Kc KP ** Kd ** f1 
+JT 6P    Qc 7P QT ** f2 
+Dc             Jd ** f3 
+9P             DP Dd f4 
+8d             9d 9T f5 
+7T             8P    f6 
+6c             7c    f7 
+5T             6T    f8 
+               5d    f9 
+JOC EN CURS
+OPCIO:
+2
+A QUINA COLUMNA LA VOLS POSAR:
+4
+ESTAT DEL JOC
+5P 4c 4d 3T    ** 8c 
+c1 c2 c3 c4 c5 c6 c7 
+Qd 7d Kc KP ** Kd ** f1 
+JT 6P    Qc 7P QT ** f2 
+Dc       JP    Jd ** f3 
+9P             DP Dd f4 
+8d             9d 9T f5 
+7T             8P    f6 
+6c             7c    f7 
+5T             6T    f8 
+               5d    f9 
+JOC EN CURS
+OPCIO:
+4
+ENTRA LA COLUMNA ORIGEN I LA FILA ORIGEN:
+7
+4
+ENTRA LA COLUMNA DESTI:
+4
+ESTAT DEL JOC
+5P 4c 4d 3T    ** 8c 
+c1 c2 c3 c4 c5 c6 c7 
+Qd 7d Kc KP ** Kd ** f1 
+JT 6P    Qc 7P QT ** f2 
+Dc       JP    Jd 5c f3 
+9P       Dd    DP    f4 
+8d       9T    9d    f5 
+7T             8P    f6 
+6c             7c    f7 
+5T             6T    f8 
+               5d    f9 
+JOC EN CURS
+OPCIO:
+5
+ENTRA LA COLUMNA ORIGEN:
+7
+ESTAT DEL JOC
+5P 5c 4d 3T    ** 8c 
+c1 c2 c3 c4 c5 c6 c7 
+Qd 7d Kc KP ** Kd ** f1 
+JT 6P    Qc 7P QT 6d f2 
+Dc       JP    Jd    f3 
+9P       Dd    DP    f4 
+8d       9T    9d    f5 
+7T             8P    f6 
+6c             7c    f7 
+5T             6T    f8 
+               5d    f9 
+JOC EN CURS
+OPCIO:
+5
+ENTRA LA COLUMNA ORIGEN:
+6
+ESTAT DEL JOC
+5P 5c 5d 3T    ** 8c 
+c1 c2 c3 c4 c5 c6 c7 
+Qd 7d Kc KP ** Kd ** f1 
+JT 6P    Qc 7P QT 6d f2 
+Dc       JP    Jd    f3 
+9P       Dd    DP    f4 
+8d       9T    9d    f5 
+7T             8P    f6 
+6c             7c    f7 
+5T             6T    f8 
+JOC EN CURS
+OPCIO:
+6
+ENTRA LA PILA:
+3
+A QUINA COLUMNA LA VOLS POSAR:
+6
+ESTAT DEL JOC
+5P 5c 4d 3T    ** 8c 
+c1 c2 c3 c4 c5 c6 c7 
+Qd 7d Kc KP ** Kd ** f1 
+JT 6P    Qc 7P QT 6d f2 
+Dc       JP    Jd    f3 
+9P       Dd    DP    f4 
+8d       9T    9d    f5 
+7T             8P    f6 
+6c             7c    f7 
+5T             6T    f8 
+               5d    f9 
+JOC EN CURS
+OPCIO:
+5
+ENTRA LA COLUMNA ORIGEN:
+6
+ESTAT DEL JOC
+5P 5c 5d 3T    ** 8c 
+c1 c2 c3 c4 c5 c6 c7 
+Qd 7d Kc KP ** Kd ** f1 
+JT 6P    Qc 7P QT 6d f2 
+Dc       JP    Jd    f3 
+9P       Dd    DP    f4 
+8d       9T    9d    f5 
+7T             8P    f6 
+6c             7c    f7 
+5T             6T    f8 
+JOC EN CURS
+OPCIO:
+5
+ENTRA LA COLUMNA ORIGEN:
+7
+ESTAT DEL JOC
+5P 5c 6d 3T    ** 8c 
+c1 c2 c3 c4 c5 c6 c7 
+Qd 7d Kc KP ** Kd 4T f1 
+JT 6P    Qc 7P QT    f2 
+Dc       JP    Jd    f3 
+9P       Dd    DP    f4 
+8d       9T    9d    f5 
+7T             8P    f6 
+6c             7c    f7 
+5T             6T    f8 
+JOC EN CURS
+OPCIO:
+5
+ENTRA LA COLUMNA ORIGEN:
+7
+ESTAT DEL JOC
+5P 5c 6d 4T    ** 8c 
+c1 c2 c3 c4 c5 c6 c7 
+Qd 7d Kc KP ** Kd    f1 
+JT 6P    Qc 7P QT    f2 
+Dc       JP    Jd    f3 
+9P       Dd    DP    f4 
+8d       9T    9d    f5 
+7T             8P    f6 
+6c             7c    f7 
+5T             6T    f8 
+JOC EN CURS
+OPCIO:
+5
+ENTRA LA COLUMNA ORIGEN:
+1
+ESTAT DEL JOC
+5P 5c 6d 5T    ** 8c 
+c1 c2 c3 c4 c5 c6 c7 
+Qd 7d Kc KP ** Kd    f1 
+JT 6P    Qc 7P QT    f2 
+Dc       JP    Jd    f3 
+9P       Dd    DP    f4 
+8d       9T    9d    f5 
+7T             8P    f6 
+6c             7c    f7 
+               6T    f8 
+JOC EN CURS
+OPCIO:
+1
+ESTAT DEL JOC
+5P 5c 6d 5T    ** KT 
+c1 c2 c3 c4 c5 c6 c7 
+Qd 7d Kc KP ** Kd    f1 
+JT 6P    Qc 7P QT    f2 
+Dc       JP    Jd    f3 
+9P       Dd    DP    f4 
+8d       9T    9d    f5 
+7T             8P    f6 
+6c             7c    f7 
+               6T    f8 
+JOC EN CURS
+OPCIO:
+5
+ENTRA LA COLUMNA ORIGEN:
+2
+ESTAT DEL JOC
+6P 5c 6d 5T    ** KT 
+c1 c2 c3 c4 c5 c6 c7 
+Qd 7d Kc KP ** Kd    f1 
+JT       Qc 7P QT    f2 
+Dc       JP    Jd    f3 
+9P       Dd    DP    f4 
+8d       9T    9d    f5 
+7T             8P    f6 
+6c             7c    f7 
+               6T    f8 
+JOC EN CURS
+OPCIO:
+5
+ENTRA LA COLUMNA ORIGEN:
+1
+ESTAT DEL JOC
+6P 6c 6d 5T    ** KT 
+c1 c2 c3 c4 c5 c6 c7 
+Qd 7d Kc KP ** Kd    f1 
+JT       Qc 7P QT    f2 
+Dc       JP    Jd    f3 
+9P       Dd    DP    f4 
+8d       9T    9d    f5 
+7T             8P    f6 
+               7c    f7 
+               6T    f8 
+JOC EN CURS
+OPCIO:
+5
+ENTRA LA COLUMNA ORIGEN:
+2
+ESTAT DEL JOC
+6P 6c 7d 5T    ** KT 
+c1 c2 c3 c4 c5 c6 c7 
+Qd    Kc KP ** Kd    f1 
+JT       Qc 7P QT    f2 
+Dc       JP    Jd    f3 
+9P       Dd    DP    f4 
+8d       9T    9d    f5 
+7T             8P    f6 
+               7c    f7 
+               6T    f8 
+JOC EN CURS
+OPCIO:
+5
+ENTRA LA COLUMNA ORIGEN:
+5
+ESTAT DEL JOC
+7P 6c 7d 5T    ** KT 
+c1 c2 c3 c4 c5 c6 c7 
+Qd    Kc KP Jc Kd    f1 
+JT       Qc    QT    f2 
+Dc       JP    Jd    f3 
+9P       Dd    DP    f4 
+8d       9T    9d    f5 
+7T             8P    f6 
+               7c    f7 
+               6T    f8 
+JOC EN CURS
+OPCIO:
+5
+ENTRA LA COLUMNA ORIGEN:
+6
+ESTAT DEL JOC
+7P 6c 7d 6T    ** KT 
+c1 c2 c3 c4 c5 c6 c7 
+Qd    Kc KP Jc Kd    f1 
+JT       Qc    QT    f2 
+Dc       JP    Jd    f3 
+9P       Dd    DP    f4 
+8d       9T    9d    f5 
+7T             8P    f6 
+               7c    f7 
+JOC EN CURS
+OPCIO:
+5
+ENTRA LA COLUMNA ORIGEN:
+1
+ESTAT DEL JOC
+7P 6c 7d 7T    ** KT 
+c1 c2 c3 c4 c5 c6 c7 
+Qd    Kc KP Jc Kd    f1 
+JT       Qc    QT    f2 
+Dc       JP    Jd    f3 
+9P       Dd    DP    f4 
+8d       9T    9d    f5 
+               8P    f6 
+               7c    f7 
+JOC EN CURS
+OPCIO:
+5
+ENTRA LA COLUMNA ORIGEN:
+6
+ESTAT DEL JOC
+7P 7c 7d 7T    ** KT 
+c1 c2 c3 c4 c5 c6 c7 
+Qd    Kc KP Jc Kd    f1 
+JT       Qc    QT    f2 
+Dc       JP    Jd    f3 
+9P       Dd    DP    f4 
+8d       9T    9d    f5 
+               8P    f6 
+JOC EN CURS
+OPCIO:
+1
+ESTAT DEL JOC
+7P 7c 7d 7T    ** 8T 
+c1 c2 c3 c4 c5 c6 c7 
+Qd    Kc KP Jc Kd    f1 
+JT       Qc    QT    f2 
+Dc       JP    Jd    f3 
+9P       Dd    DP    f4 
+8d       9T    9d    f5 
+               8P    f6 
+JOC EN CURS
+OPCIO:
+3
+ESTAT DEL JOC
+7P 7c 7d 8T    ** KT 
+c1 c2 c3 c4 c5 c6 c7 
+Qd    Kc KP Jc Kd    f1 
+JT       Qc    QT    f2 
+Dc       JP    Jd    f3 
+9P       Dd    DP    f4 
+8d       9T    9d    f5 
+               8P    f6 
+JOC EN CURS
+OPCIO:
+5
+ENTRA LA COLUMNA ORIGEN:
+1
+ESTAT DEL JOC
+7P 7c 8d 8T    ** KT 
+c1 c2 c3 c4 c5 c6 c7 
+Qd    Kc KP Jc Kd    f1 
+JT       Qc    QT    f2 
+Dc       JP    Jd    f3 
+9P       Dd    DP    f4 
+         9T    9d    f5 
+               8P    f6 
+JOC EN CURS
+OPCIO:
+5
+ENTRA LA COLUMNA ORIGEN:
+4
+ESTAT DEL JOC
+7P 7c 8d 9T    ** KT 
+c1 c2 c3 c4 c5 c6 c7 
+Qd    Kc KP Jc Kd    f1 
+JT       Qc    QT    f2 
+Dc       JP    Jd    f3 
+9P       Dd    DP    f4 
+               9d    f5 
+               8P    f6 
+JOC EN CURS
+OPCIO:
+5
+ENTRA LA COLUMNA ORIGEN:
+6
+ESTAT DEL JOC
+8P 7c 8d 9T    ** KT 
+c1 c2 c3 c4 c5 c6 c7 
+Qd    Kc KP Jc Kd    f1 
+JT       Qc    QT    f2 
+Dc       JP    Jd    f3 
+9P       Dd    DP    f4 
+               9d    f5 
+JOC EN CURS
+OPCIO:
+1
+ESTAT DEL JOC
+8P 7c 8d 9T    ** 9c 
+c1 c2 c3 c4 c5 c6 c7 
+Qd    Kc KP Jc Kd    f1 
+JT       Qc    QT    f2 
+Dc       JP    Jd    f3 
+9P       Dd    DP    f4 
+               9d    f5 
+JOC EN CURS
+OPCIO:
+1
+ESTAT DEL JOC
+8P 7c 8d 9T    ** QP 
+c1 c2 c3 c4 c5 c6 c7 
+Qd    Kc KP Jc Kd    f1 
+JT       Qc    QT    f2 
+Dc       JP    Jd    f3 
+9P       Dd    DP    f4 
+               9d    f5 
+JOC EN CURS
+OPCIO:
+1
+ESTAT DEL JOC
+8P 7c 8d 9T       DT 
+c1 c2 c3 c4 c5 c6 c7 
+Qd    Kc KP Jc Kd    f1 
+JT       Qc    QT    f2 
+Dc       JP    Jd    f3 
+9P       Dd    DP    f4 
+               9d    f5 
+JOC EN CURS
+OPCIO:
+1
+ESTAT DEL JOC
+8P 7c 8d 9T    **    
+c1 c2 c3 c4 c5 c6 c7 
+Qd    Kc KP Jc Kd    f1 
+JT       Qc    QT    f2 
+Dc       JP    Jd    f3 
+9P       Dd    DP    f4 
+               9d    f5 
+JOC EN CURS
+OPCIO:
+1
+ESTAT DEL JOC
+8P 7c 8d 9T    ** 8c 
+c1 c2 c3 c4 c5 c6 c7 
+Qd    Kc KP Jc Kd    f1 
+JT       Qc    QT    f2 
+Dc       JP    Jd    f3 
+9P       Dd    DP    f4 
+               9d    f5 
+JOC EN CURS
+OPCIO:
+3
+ESTAT DEL JOC
+8P 8c 8d 9T    **    
+c1 c2 c3 c4 c5 c6 c7 
+Qd    Kc KP Jc Kd    f1 
+JT       Qc    QT    f2 
+Dc       JP    Jd    f3 
+9P       Dd    DP    f4 
+               9d    f5 
+JOC EN CURS
+OPCIO:
+5
+ENTRA LA COLUMNA ORIGEN:
+1
+ESTAT DEL JOC
+9P 8c 8d 9T    **    
+c1 c2 c3 c4 c5 c6 c7 
+Qd    Kc KP Jc Kd    f1 
+JT       Qc    QT    f2 
+Dc       JP    Jd    f3 
+         Dd    DP    f4 
+               9d    f5 
+JOC EN CURS
+OPCIO:
+5
+ENTRA LA COLUMNA ORIGEN:
+6
+ESTAT DEL JOC
+9P 8c 9d 9T    **    
+c1 c2 c3 c4 c5 c6 c7 
+Qd    Kc KP Jc Kd    f1 
+JT       Qc    QT    f2 
+Dc       JP    Jd    f3 
+         Dd    DP    f4 
+JOC EN CURS
+OPCIO:
+5
+ENTRA LA COLUMNA ORIGEN:
+1
+LA CARTA NO ES POT APILAR
+ESTAT DEL JOC
+9P 8c 9d 9T    **    
+c1 c2 c3 c4 c5 c6 c7 
+Qd    Kc KP Jc Kd    f1 
+JT       Qc    QT    f2 
+Dc       JP    Jd    f3 
+         Dd    DP    f4 
+JOC EN CURS
+OPCIO:
+1
+ESTAT DEL JOC
+9P 8c 9d 9T    ** KT 
+c1 c2 c3 c4 c5 c6 c7 
+Qd    Kc KP Jc Kd    f1 
+JT       Qc    QT    f2 
+Dc       JP    Jd    f3 
+         Dd    DP    f4 
+JOC EN CURS
+OPCIO:
+1
+ESTAT DEL JOC
+9P 8c 9d 9T    ** 9c 
+c1 c2 c3 c4 c5 c6 c7 
+Qd    Kc KP Jc Kd    f1 
+JT       Qc    QT    f2 
+Dc       JP    Jd    f3 
+         Dd    DP    f4 
+JOC EN CURS
+OPCIO:
+3
+ESTAT DEL JOC
+9P 9c 9d 9T    ** KT 
+c1 c2 c3 c4 c5 c6 c7 
+Qd    Kc KP Jc Kd    f1 
+JT       Qc    QT    f2 
+Dc       JP    Jd    f3 
+         Dd    DP    f4 
+JOC EN CURS
+OPCIO:
+5
+ENTRA LA COLUMNA ORIGEN:
+1
+ESTAT DEL JOC
+9P Dc 9d 9T    ** KT 
+c1 c2 c3 c4 c5 c6 c7 
+Qd    Kc KP Jc Kd    f1 
+JT       Qc    QT    f2 
+         JP    Jd    f3 
+         Dd    DP    f4 
+JOC EN CURS
+OPCIO:
+5
+ENTRA LA COLUMNA ORIGEN:
+4
+ESTAT DEL JOC
+9P Dc Dd 9T    ** KT 
+c1 c2 c3 c4 c5 c6 c7 
+Qd    Kc KP Jc Kd    f1 
+JT       Qc    QT    f2 
+         JP    Jd    f3 
+               DP    f4 
+JOC EN CURS
+OPCIO:
+5
+ENTRA LA COLUMNA ORIGEN:
+6
+ESTAT DEL JOC
+DP Dc Dd 9T    ** KT 
+c1 c2 c3 c4 c5 c6 c7 
+Qd    Kc KP Jc Kd    f1 
+JT       Qc    QT    f2 
+         JP    Jd    f3 
+JOC EN CURS
+OPCIO:
+1
+ESTAT DEL JOC
+DP Dc Dd 9T    ** QP 
+c1 c2 c3 c4 c5 c6 c7 
+Qd    Kc KP Jc Kd    f1 
+JT       Qc    QT    f2 
+         JP    Jd    f3 
+JOC EN CURS
+OPCIO:
+1
+ESTAT DEL JOC
+DP Dc Dd 9T       DT 
+c1 c2 c3 c4 c5 c6 c7 
+Qd    Kc KP Jc Kd    f1 
+JT       Qc    QT    f2 
+         JP    Jd    f3 
+JOC EN CURS
+OPCIO:
+3
+ESTAT DEL JOC
+DP Dc Dd DT       QP 
+c1 c2 c3 c4 c5 c6 c7 
+Qd    Kc KP Jc Kd    f1 
+JT       Qc    QT    f2 
+         JP    Jd    f3 
+JOC EN CURS
+OPCIO:
+5
+ENTRA LA COLUMNA ORIGEN:
+1
+ESTAT DEL JOC
+DP Dc Dd JT       QP 
+c1 c2 c3 c4 c5 c6 c7 
+Qd    Kc KP Jc Kd    f1 
+         Qc    QT    f2 
+         JP    Jd    f3 
+JOC EN CURS
+OPCIO:
+5
+ENTRA LA COLUMNA ORIGEN:
+4
+ESTAT DEL JOC
+JP Dc Dd JT       QP 
+c1 c2 c3 c4 c5 c6 c7 
+Qd    Kc KP Jc Kd    f1 
+         Qc    QT    f2 
+               Jd    f3 
+JOC EN CURS
+OPCIO:
+5
+ENTRA LA COLUMNA ORIGEN:
+6
+ESTAT DEL JOC
+JP Dc Jd JT       QP 
+c1 c2 c3 c4 c5 c6 c7 
+Qd    Kc KP Jc Kd    f1 
+         Qc    QT    f2 
+JOC EN CURS
+OPCIO:
+3
+ESTAT DEL JOC
+QP Dc Jd JT       KT 
+c1 c2 c3 c4 c5 c6 c7 
+Qd    Kc KP Jc Kd    f1 
+         Qc    QT    f2 
+JOC EN CURS
+OPCIO:
+5
+ENTRA LA COLUMNA ORIGEN:
+5
+ESTAT DEL JOC
+QP Jc Jd JT       KT 
+c1 c2 c3 c4 c5 c6 c7 
+Qd    Kc KP    Kd    f1 
+         Qc    QT    f2 
+JOC EN CURS
+OPCIO:
+5
+ENTRA LA COLUMNA ORIGEN:
+1
+ESTAT DEL JOC
+QP Jc Qd JT       KT 
+c1 c2 c3 c4 c5 c6 c7 
+      Kc KP    Kd    f1 
+         Qc    QT    f2 
+JOC EN CURS
+OPCIO:
+5
+ENTRA LA COLUMNA ORIGEN:
+4
+ESTAT DEL JOC
+QP Qc Qd JT       KT 
+c1 c2 c3 c4 c5 c6 c7 
+      Kc KP    Kd    f1 
+               QT    f2 
+JOC EN CURS
+OPCIO:
+5
+ENTRA LA COLUMNA ORIGEN:
+6
+ESTAT DEL JOC
+QP Qc Qd QT       KT 
+c1 c2 c3 c4 c5 c6 c7 
+      Kc KP    Kd    f1 
+JOC EN CURS
+OPCIO:
+5
+ENTRA LA COLUMNA ORIGEN:
+3
+ESTAT DEL JOC
+QP Kc Qd QT       KT 
+c1 c2 c3 c4 c5 c6 c7 
+         KP    Kd    f1 
+JOC EN CURS
+OPCIO:
+5
+ENTRA LA COLUMNA ORIGEN:
+4
+ESTAT DEL JOC
+KP Kc Qd QT       KT 
+c1 c2 c3 c4 c5 c6 c7 
+               Kd    f1 
+JOC EN CURS
+OPCIO:
+5
+ENTRA LA COLUMNA ORIGEN:
+6
+ESTAT DEL JOC
+KP Kc Kd QT       KT 
+c1 c2 c3 c4 c5 c6 c7 
+JOC EN CURS
+OPCIO:
+3
+ESTAT DEL JOC
+KP Kc Kd KT          
+c1 c2 c3 c4 c5 c6 c7 
+JOC ACABAT
+HAS GUANYAT LA PARTIDA!
+

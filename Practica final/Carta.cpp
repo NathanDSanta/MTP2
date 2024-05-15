@@ -12,6 +12,7 @@ Carta::Carta(char pal, int valor, bool visible) {
   a_pal = pal;
   a_valor = valor;
   a_visible = visible;
+  a_negre = a_pal == 'P' || a_pal == 'T';
 }
 
 // MÈTODES MODIFICADORS
@@ -23,13 +24,30 @@ void Carta::intercanviar(Carta &a, Carta &c) {
   c = aux;
 }
 
-void Carta::girar() {
+Carta &Carta::girar() {
   // Pre: --; Post: gira la carta;
   a_visible = !a_visible;
+  return *this;
 }
 
 // MÈTODES CONSULTORS
 bool Carta::visible() const { return a_visible; }
+
+bool Carta::apilable(const Carta &c) const {
+  return c.a_pal == 'E' && a_valor == 0 ||
+         a_pal == c.a_pal && a_valor == c.a_valor + 1;
+}
+
+bool Carta::encaixen(const Carta &c) const {
+  return a_negre != c.a_negre && a_valor == c.a_valor - 1;
+}
+
+int Carta::pal() const {
+  int i = 0;
+  while (i < 4 && PALS[i] != a_pal)
+    i++;
+  return i;
+}
 
 // OPERADORS
 

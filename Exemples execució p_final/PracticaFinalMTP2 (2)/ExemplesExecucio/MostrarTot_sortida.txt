@@ -1,0 +1,348 @@
+ENTRA LA LLAVOR:
+ESTAT DEL JOC
+               **    
+c1 c2 c3 c4 c5 c6 c7 
+DP ** ** ** ** ** ** f1 
+   5d ** ** ** ** ** f2 
+      4T ** ** ** ** f3 
+         3d ** ** ** f4 
+            2c ** ** f5 
+               7T ** f6 
+                  Kc f7 
+JOC EN CURS
+MENU
+1: OBRIR UNA CARTA (O TORNAR A COMENCAR)
+2: POSAR UNA CARTA (MA->TAULER)
+3: POSAR UNA CARTA (MA->PILA)
+4: MOURE UNA CARTA (TAULER->TAULER)
+5: MOURE UNA CARTA (TAULER->PILA)
+6: RECUPERAR UNA CARTA (PILA->TAULER)
+E: ESPIAR EL TAULER
+M: MOSTRAR EL MENU
+A: ABANDONAR LA PARTIDA
+OPCIO:
+ESTAT DEL JOC
+               **    
+c1 c2 c3 c4 c5 c6 c7 
+DP 3P Dc 2T 9d 7c 2P f1 
+   5d Jc AP 6d Qc 9P f2 
+      4T 4c 9T 5c 8c f3 
+         3d AT 5P Dd f4 
+            2c 6c Ac f5 
+               7T 8T f6 
+                  Kc f7 
+JOC EN CURS
+OPCIO:
+ESTAT DEL JOC
+               ** 6T 
+c1 c2 c3 c4 c5 c6 c7 
+DP ** ** ** ** ** ** f1 
+   5d ** ** ** ** ** f2 
+      4T ** ** ** ** f3 
+         3d ** ** ** f4 
+            2c ** ** f5 
+               7T ** f6 
+                  Kc f7 
+JOC EN CURS
+OPCIO:
+ESTAT DEL JOC
+               ** 9c 
+c1 c2 c3 c4 c5 c6 c7 
+DP ** ** ** ** ** ** f1 
+   5d ** ** ** ** ** f2 
+      4T ** ** ** ** f3 
+         3d ** ** ** f4 
+            2c ** ** f5 
+               7T ** f6 
+                  Kc f7 
+JOC EN CURS
+OPCIO:
+ESTAT DEL JOC
+               ** KT 
+c1 c2 c3 c4 c5 c6 c7 
+DP ** ** ** ** ** ** f1 
+   5d ** ** ** ** ** f2 
+      4T ** ** ** ** f3 
+         3d ** ** ** f4 
+            2c ** ** f5 
+               7T ** f6 
+                  Kc f7 
+JOC EN CURS
+OPCIO:
+ESTAT DEL JOC
+               ** KP 
+c1 c2 c3 c4 c5 c6 c7 
+DP ** ** ** ** ** ** f1 
+   5d ** ** ** ** ** f2 
+      4T ** ** ** ** f3 
+         3d ** ** ** f4 
+            2c ** ** f5 
+               7T ** f6 
+                  Kc f7 
+JOC EN CURS
+OPCIO:
+ESTAT DEL JOC
+               ** QP 
+c1 c2 c3 c4 c5 c6 c7 
+DP ** ** ** ** ** ** f1 
+   5d ** ** ** ** ** f2 
+      4T ** ** ** ** f3 
+         3d ** ** ** f4 
+            2c ** ** f5 
+               7T ** f6 
+                  Kc f7 
+JOC EN CURS
+OPCIO:
+ESTAT DEL JOC
+               ** Ad 
+c1 c2 c3 c4 c5 c6 c7 
+DP ** ** ** ** ** ** f1 
+   5d ** ** ** ** ** f2 
+      4T ** ** ** ** f3 
+         3d ** ** ** f4 
+            2c ** ** f5 
+               7T ** f6 
+                  Kc f7 
+JOC EN CURS
+OPCIO:
+ESTAT DEL JOC
+               ** 4P 
+c1 c2 c3 c4 c5 c6 c7 
+DP ** ** ** ** ** ** f1 
+   5d ** ** ** ** ** f2 
+      4T ** ** ** ** f3 
+         3d ** ** ** f4 
+            2c ** ** f5 
+               7T ** f6 
+                  Kc f7 
+JOC EN CURS
+OPCIO:
+ESTAT DEL JOC
+               ** 3T 
+c1 c2 c3 c4 c5 c6 c7 
+DP ** ** ** ** ** ** f1 
+   5d ** ** ** ** ** f2 
+      4T ** ** ** ** f3 
+         3d ** ** ** f4 
+            2c ** ** f5 
+               7T ** f6 
+                  Kc f7 
+JOC EN CURS
+OPCIO:
+ESTAT DEL JOC
+               ** QT 
+c1 c2 c3 c4 c5 c6 c7 
+DP ** ** ** ** ** ** f1 
+   5d ** ** ** ** ** f2 
+      4T ** ** ** ** f3 
+         3d ** ** ** f4 
+            2c ** ** f5 
+               7T ** f6 
+                  Kc f7 
+JOC EN CURS
+OPCIO:
+ESTAT DEL JOC
+               ** DT 
+c1 c2 c3 c4 c5 c6 c7 
+DP ** ** ** ** ** ** f1 
+   5d ** ** ** ** ** f2 
+      4T ** ** ** ** f3 
+         3d ** ** ** f4 
+            2c ** ** f5 
+               7T ** f6 
+                  Kc f7 
+JOC EN CURS
+OPCIO:
+ESTAT DEL JOC
+               ** JP 
+c1 c2 c3 c4 c5 c6 c7 
+DP ** ** ** ** ** ** f1 
+   5d ** ** ** ** ** f2 
+      4T ** ** ** ** f3 
+         3d ** ** ** f4 
+            2c ** ** f5 
+               7T ** f6 
+                  Kc f7 
+JOC EN CURS
+OPCIO:
+ESTAT DEL JOC
+               ** Kd 
+c1 c2 c3 c4 c5 c6 c7 
+DP ** ** ** ** ** ** f1 
+   5d ** ** ** ** ** f2 
+      4T ** ** ** ** f3 
+         3d ** ** ** f4 
+            2c ** ** f5 
+               7T ** f6 
+                  Kc f7 
+JOC EN CURS
+OPCIO:
+ESTAT DEL JOC
+               ** 5T 
+c1 c2 c3 c4 c5 c6 c7 
+DP ** ** ** ** ** ** f1 
+   5d ** ** ** ** ** f2 
+      4T ** ** ** ** f3 
+         3d ** ** ** f4 
+            2c ** ** f5 
+               7T ** f6 
+                  Kc f7 
+JOC EN CURS
+OPCIO:
+ESTAT DEL JOC
+               ** 6P 
+c1 c2 c3 c4 c5 c6 c7 
+DP ** ** ** ** ** ** f1 
+   5d ** ** ** ** ** f2 
+      4T ** ** ** ** f3 
+         3d ** ** ** f4 
+            2c ** ** f5 
+               7T ** f6 
+                  Kc f7 
+JOC EN CURS
+OPCIO:
+ESTAT DEL JOC
+               ** JT 
+c1 c2 c3 c4 c5 c6 c7 
+DP ** ** ** ** ** ** f1 
+   5d ** ** ** ** ** f2 
+      4T ** ** ** ** f3 
+         3d ** ** ** f4 
+            2c ** ** f5 
+               7T ** f6 
+                  Kc f7 
+JOC EN CURS
+OPCIO:
+ESTAT DEL JOC
+               ** 2d 
+c1 c2 c3 c4 c5 c6 c7 
+DP ** ** ** ** ** ** f1 
+   5d ** ** ** ** ** f2 
+      4T ** ** ** ** f3 
+         3d ** ** ** f4 
+            2c ** ** f5 
+               7T ** f6 
+                  Kc f7 
+JOC EN CURS
+OPCIO:
+ESTAT DEL JOC
+               ** 8d 
+c1 c2 c3 c4 c5 c6 c7 
+DP ** ** ** ** ** ** f1 
+   5d ** ** ** ** ** f2 
+      4T ** ** ** ** f3 
+         3d ** ** ** f4 
+            2c ** ** f5 
+               7T ** f6 
+                  Kc f7 
+JOC EN CURS
+OPCIO:
+ESTAT DEL JOC
+               ** 3c 
+c1 c2 c3 c4 c5 c6 c7 
+DP ** ** ** ** ** ** f1 
+   5d ** ** ** ** ** f2 
+      4T ** ** ** ** f3 
+         3d ** ** ** f4 
+            2c ** ** f5 
+               7T ** f6 
+                  Kc f7 
+JOC EN CURS
+OPCIO:
+ESTAT DEL JOC
+               ** 7d 
+c1 c2 c3 c4 c5 c6 c7 
+DP ** ** ** ** ** ** f1 
+   5d ** ** ** ** ** f2 
+      4T ** ** ** ** f3 
+         3d ** ** ** f4 
+            2c ** ** f5 
+               7T ** f6 
+                  Kc f7 
+JOC EN CURS
+OPCIO:
+ESTAT DEL JOC
+               ** 4d 
+c1 c2 c3 c4 c5 c6 c7 
+DP ** ** ** ** ** ** f1 
+   5d ** ** ** ** ** f2 
+      4T ** ** ** ** f3 
+         3d ** ** ** f4 
+            2c ** ** f5 
+               7T ** f6 
+                  Kc f7 
+JOC EN CURS
+OPCIO:
+ESTAT DEL JOC
+               ** 7P 
+c1 c2 c3 c4 c5 c6 c7 
+DP ** ** ** ** ** ** f1 
+   5d ** ** ** ** ** f2 
+      4T ** ** ** ** f3 
+         3d ** ** ** f4 
+            2c ** ** f5 
+               7T ** f6 
+                  Kc f7 
+JOC EN CURS
+OPCIO:
+ESTAT DEL JOC
+               ** Jd 
+c1 c2 c3 c4 c5 c6 c7 
+DP ** ** ** ** ** ** f1 
+   5d ** ** ** ** ** f2 
+      4T ** ** ** ** f3 
+         3d ** ** ** f4 
+            2c ** ** f5 
+               7T ** f6 
+                  Kc f7 
+JOC EN CURS
+OPCIO:
+ESTAT DEL JOC
+               ** Qd 
+c1 c2 c3 c4 c5 c6 c7 
+DP ** ** ** ** ** ** f1 
+   5d ** ** ** ** ** f2 
+      4T ** ** ** ** f3 
+         3d ** ** ** f4 
+            2c ** ** f5 
+               7T ** f6 
+                  Kc f7 
+JOC EN CURS
+OPCIO:
+ESTAT DEL JOC
+                  8P 
+c1 c2 c3 c4 c5 c6 c7 
+DP ** ** ** ** ** ** f1 
+   5d ** ** ** ** ** f2 
+      4T ** ** ** ** f3 
+         3d ** ** ** f4 
+            2c ** ** f5 
+               7T ** f6 
+                  Kc f7 
+JOC EN CURS
+OPCIO:
+ESTAT DEL JOC
+               **    
+c1 c2 c3 c4 c5 c6 c7 
+DP ** ** ** ** ** ** f1 
+   5d ** ** ** ** ** f2 
+      4T ** ** ** ** f3 
+         3d ** ** ** f4 
+            2c ** ** f5 
+               7T ** f6 
+                  Kc f7 
+JOC EN CURS
+OPCIO:
+ESTAT DEL JOC
+               ** 6T 
+c1 c2 c3 c4 c5 c6 c7 
+DP ** ** ** ** ** ** f1 
+   5d ** ** ** ** ** f2 
+      4T ** ** ** ** f3 
+         3d ** ** ** f4 
+            2c ** ** f5 
+               7T ** f6 
+                  Kc f7 
+JOC EN CURS
+OPCIO:
+HAS ABANDONAT LA PARTIDA!

@@ -29,15 +29,18 @@ int main() {
     char opcio = demanar_opcio();
     switch (opcio) {
     case '1':
-
+      partida.obrir_carta();
+      cout << partida;
       break;
 
     case '2':
-
+      partida.posar_carta_tauler();
+      cout << partida;
       break;
 
     case '3':
-
+      partida.posar_carta_pila();
+      cout << partida;
       break;
 
     case '4':
@@ -62,6 +65,7 @@ int main() {
 
     case 'A':
       abandonar = true;
+      cout << "HAS ABANDONAT LA PARTIDA! " << endl;
       break;
     }
   }

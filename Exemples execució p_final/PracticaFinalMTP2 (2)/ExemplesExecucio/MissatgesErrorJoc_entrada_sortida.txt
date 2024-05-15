@@ -1,0 +1,310 @@
+ENTRA LA LLAVOR:
+1234
+ESTAT DEL JOC
+               **    
+c1 c2 c3 c4 c5 c6 c7 
+DP ** ** ** ** ** ** f1 
+   5d ** ** ** ** ** f2 
+      4T ** ** ** ** f3 
+         3d ** ** ** f4 
+            2c ** ** f5 
+               7T ** f6 
+                  Kc f7 
+JOC EN CURS
+MENU
+1: OBRIR UNA CARTA (O TORNAR A COMENCAR)
+2: POSAR UNA CARTA (MA->TAULER)
+3: POSAR UNA CARTA (MA->PILA)
+4: MOURE UNA CARTA (TAULER->TAULER)
+5: MOURE UNA CARTA (TAULER->PILA)
+6: RECUPERAR UNA CARTA (PILA->TAULER)
+E: ESPIAR EL TAULER
+M: MOSTRAR EL MENU
+A: ABANDONAR LA PARTIDA
+OPCIO:
+4
+ENTRA LA COLUMNA ORIGEN I LA FILA ORIGEN:
+1
+1
+ENTRA LA COLUMNA DESTI:
+2
+LA CARTA NO ES POT POSAR A LA COLUMNA 2
+ESTAT DEL JOC
+               **    
+c1 c2 c3 c4 c5 c6 c7 
+DP ** ** ** ** ** ** f1 
+   5d ** ** ** ** ** f2 
+      4T ** ** ** ** f3 
+         3d ** ** ** f4 
+            2c ** ** f5 
+               7T ** f6 
+                  Kc f7 
+JOC EN CURS
+OPCIO:
+4
+ENTRA LA COLUMNA ORIGEN I LA FILA ORIGEN:
+4
+1
+LA CARTA NO ES POT MOURE
+ESTAT DEL JOC
+               **    
+c1 c2 c3 c4 c5 c6 c7 
+DP ** ** ** ** ** ** f1 
+   5d ** ** ** ** ** f2 
+      4T ** ** ** ** f3 
+         3d ** ** ** f4 
+            2c ** ** f5 
+               7T ** f6 
+                  Kc f7 
+JOC EN CURS
+OPCIO:
+2
+NO HI HA CAP CARTA PER AGAFAR
+ESTAT DEL JOC
+               **    
+c1 c2 c3 c4 c5 c6 c7 
+DP ** ** ** ** ** ** f1 
+   5d ** ** ** ** ** f2 
+      4T ** ** ** ** f3 
+         3d ** ** ** f4 
+            2c ** ** f5 
+               7T ** f6 
+                  Kc f7 
+JOC EN CURS
+OPCIO:
+3
+NO HI HA CAP CARTA PER AGAFAR
+ESTAT DEL JOC
+               **    
+c1 c2 c3 c4 c5 c6 c7 
+DP ** ** ** ** ** ** f1 
+   5d ** ** ** ** ** f2 
+      4T ** ** ** ** f3 
+         3d ** ** ** f4 
+            2c ** ** f5 
+               7T ** f6 
+                  Kc f7 
+JOC EN CURS
+OPCIO:
+1 
+ESTAT DEL JOC
+               ** 6T 
+c1 c2 c3 c4 c5 c6 c7 
+DP ** ** ** ** ** ** f1 
+   5d ** ** ** ** ** f2 
+      4T ** ** ** ** f3 
+         3d ** ** ** f4 
+            2c ** ** f5 
+               7T ** f6 
+                  Kc f7 
+JOC EN CURS
+OPCIO:
+2
+A QUINA COLUMNA LA VOLS POSAR:
+7
+LA CARTA NO ES POT POSAR A LA COLUMNA 7
+ESTAT DEL JOC
+               ** 6T 
+c1 c2 c3 c4 c5 c6 c7 
+DP ** ** ** ** ** ** f1 
+   5d ** ** ** ** ** f2 
+      4T ** ** ** ** f3 
+         3d ** ** ** f4 
+            2c ** ** f5 
+               7T ** f6 
+                  Kc f7 
+JOC EN CURS
+OPCIO:
+3
+LA CARTA NO ES POT APILAR
+ESTAT DEL JOC
+               ** 6T 
+c1 c2 c3 c4 c5 c6 c7 
+DP ** ** ** ** ** ** f1 
+   5d ** ** ** ** ** f2 
+      4T ** ** ** ** f3 
+         3d ** ** ** f4 
+            2c ** ** f5 
+               7T ** f6 
+                  Kc f7 
+JOC EN CURS
+OPCIO:
+5
+ENTRA LA COLUMNA ORIGEN:
+2
+LA CARTA NO ES POT APILAR
+ESTAT DEL JOC
+               ** 6T 
+c1 c2 c3 c4 c5 c6 c7 
+DP ** ** ** ** ** ** f1 
+   5d ** ** ** ** ** f2 
+      4T ** ** ** ** f3 
+         3d ** ** ** f4 
+            2c ** ** f5 
+               7T ** f6 
+                  Kc f7 
+JOC EN CURS
+OPCIO:
+6
+ENTRA LA PILA:
+1
+A LA PILA NO HI HA CAP CARTA PER RECUPERAR
+ESTAT DEL JOC
+               ** 6T 
+c1 c2 c3 c4 c5 c6 c7 
+DP ** ** ** ** ** ** f1 
+   5d ** ** ** ** ** f2 
+      4T ** ** ** ** f3 
+         3d ** ** ** f4 
+            2c ** ** f5 
+               7T ** f6 
+                  Kc f7 
+JOC EN CURS
+OPCIO:
+1
+ESTAT DEL JOC
+               ** 9c 
+c1 c2 c3 c4 c5 c6 c7 
+DP ** ** ** ** ** ** f1 
+   5d ** ** ** ** ** f2 
+      4T ** ** ** ** f3 
+         3d ** ** ** f4 
+            2c ** ** f5 
+               7T ** f6 
+                  Kc f7 
+JOC EN CURS
+OPCIO:
+1
+ESTAT DEL JOC
+               ** KT 
+c1 c2 c3 c4 c5 c6 c7 
+DP ** ** ** ** ** ** f1 
+   5d ** ** ** ** ** f2 
+      4T ** ** ** ** f3 
+         3d ** ** ** f4 
+            2c ** ** f5 
+               7T ** f6 
+                  Kc f7 
+JOC EN CURS
+OPCIO:
+1
+ESTAT DEL JOC
+               ** KP 
+c1 c2 c3 c4 c5 c6 c7 
+DP ** ** ** ** ** ** f1 
+   5d ** ** ** ** ** f2 
+      4T ** ** ** ** f3 
+         3d ** ** ** f4 
+            2c ** ** f5 
+               7T ** f6 
+                  Kc f7 
+JOC EN CURS
+OPCIO:
+1
+ESTAT DEL JOC
+               ** QP 
+c1 c2 c3 c4 c5 c6 c7 
+DP ** ** ** ** ** ** f1 
+   5d ** ** ** ** ** f2 
+      4T ** ** ** ** f3 
+         3d ** ** ** f4 
+            2c ** ** f5 
+               7T ** f6 
+                  Kc f7 
+JOC EN CURS
+OPCIO:
+1
+ESTAT DEL JOC
+               ** Ad 
+c1 c2 c3 c4 c5 c6 c7 
+DP ** ** ** ** ** ** f1 
+   5d ** ** ** ** ** f2 
+      4T ** ** ** ** f3 
+         3d ** ** ** f4 
+            2c ** ** f5 
+               7T ** f6 
+                  Kc f7 
+JOC EN CURS
+OPCIO:
+1
+ESTAT DEL JOC
+               ** 4P 
+c1 c2 c3 c4 c5 c6 c7 
+DP ** ** ** ** ** ** f1 
+   5d ** ** ** ** ** f2 
+      4T ** ** ** ** f3 
+         3d ** ** ** f4 
+            2c ** ** f5 
+               7T ** f6 
+                  Kc f7 
+JOC EN CURS
+OPCIO:
+3
+LA CARTA NO ES POT APILAR
+ESTAT DEL JOC
+               ** 4P 
+c1 c2 c3 c4 c5 c6 c7 
+DP ** ** ** ** ** ** f1 
+   5d ** ** ** ** ** f2 
+      4T ** ** ** ** f3 
+         3d ** ** ** f4 
+            2c ** ** f5 
+               7T ** f6 
+                  Kc f7 
+JOC EN CURS
+OPCIO:
+6
+ENTRA LA PILA:
+3
+A LA PILA NO HI HA CAP CARTA PER RECUPERAR
+ESTAT DEL JOC
+               ** 4P 
+c1 c2 c3 c4 c5 c6 c7 
+DP ** ** ** ** ** ** f1 
+   5d ** ** ** ** ** f2 
+      4T ** ** ** ** f3 
+         3d ** ** ** f4 
+            2c ** ** f5 
+               7T ** f6 
+                  Kc f7 
+JOC EN CURS
+OPCIO:
+1
+ESTAT DEL JOC
+               ** 3T 
+c1 c2 c3 c4 c5 c6 c7 
+DP ** ** ** ** ** ** f1 
+   5d ** ** ** ** ** f2 
+      4T ** ** ** ** f3 
+         3d ** ** ** f4 
+            2c ** ** f5 
+               7T ** f6 
+                  Kc f7 
+JOC EN CURS
+OPCIO:
+a
+OPCIO NO DEFINIDA a
+MENU
+1: OBRIR UNA CARTA (O TORNAR A COMENCAR)
+2: POSAR UNA CARTA (MA->TAULER)
+3: POSAR UNA CARTA (MA->PILA)
+4: MOURE UNA CARTA (TAULER->TAULER)
+5: MOURE UNA CARTA (TAULER->PILA)
+6: RECUPERAR UNA CARTA (PILA->TAULER)
+E: ESPIAR EL TAULER
+M: MOSTRAR EL MENU
+A: ABANDONAR LA PARTIDA
+ESTAT DEL JOC
+               ** 3T 
+c1 c2 c3 c4 c5 c6 c7 
+DP ** ** ** ** ** ** f1 
+   5d ** ** ** ** ** f2 
+      4T ** ** ** ** f3 
+         3d ** ** ** f4 
+            2c ** ** f5 
+               7T ** f6 
+                  Kc f7 
+JOC EN CURS
+OPCIO:
+A
+HAS ABANDONAT LA PARTIDA!

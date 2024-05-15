@@ -14,6 +14,7 @@ private:
   char a_pal;
   int a_valor;
   bool a_visible;
+  bool a_negre;
 
   // Mètodes privats
   bool pal_menor(const Carta &c) const;
@@ -31,7 +32,7 @@ public:
   // 0, true}
 
   // Mètodes modificadors
-  void girar();
+  Carta &girar();
   // Pre: --; Post: gira la carta;
   static void intercanviar(Carta &a, Carta &c);
   // Pre: a = A, c = C; post: a = C, c = A;
@@ -39,6 +40,12 @@ public:
   // Mètodes consultors
   bool visible() const;
   // Pre: --; Post: retorna si la carta és visible
+  bool encaixen(const Carta &c) const;
+  // Pre: --; Post: retorna si la carta actual encaixa sota la carta c
+  bool apilable(const Carta &c) const;
+  // Pre: --; Post: retorna si la carta actual es pot apilar sobre c
+  int pal() const;
+  // Pre: --; Post: retorna l'índex del pal
 
   // Operadors
   bool operator<(const Carta &c) const;
