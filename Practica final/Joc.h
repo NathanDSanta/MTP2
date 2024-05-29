@@ -27,6 +27,11 @@ public:
   void posar_carta_pila();
   // Pre: --; Post: agafa la darrera carta oberta de la mà, i la posa a la seva
   // pila dels colls
+  void moure_carta_tauler();
+  // Pre: --; Post: agafa 1 o més cartes d'una columna, i les mou a una altra
+  void moure_carta_pila();
+  // Pre: --; Post: agafa la darrera carta de la columna i la posa a la seva
+  // pila dels colls
 };
 
 #endif // !JOC_H

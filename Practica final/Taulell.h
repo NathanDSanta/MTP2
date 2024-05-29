@@ -37,15 +37,20 @@ public:
   // Pre: --; Post: cartes de b repartides al taulell i les restants retornades.
   Taulell &espiar();
   // Pre: --; Post: Gira totes les cartes del taulell
-  void posar_carta_ma(int columna, const Carta &c);
+  void girar_ultima_carta(int columna);
+  // Pre: --; Post: Gira la ultima carta de la columna;
+  void apilar_carta(int columna, const Carta &c);
   // Pre: --; Post: col·loca la carta a la columna demanada;
-  void apilar_carta(const Carta &c);
-  // Pre: --; Post: apil·la la carta a l'espai corresponent
+  Carta desapilar_carta(int columna);
+  // Pre: --; Post: desapila la ultima carta de la columna
 
-  // Mètodes consultors
-  bool columna_valida(int columna, const Carta &c) const;
+  //  Mètodes consultors
+  bool columna_valida(int columna) const;
   // Pre: --; Post: retorna si la columna és vàlida
-  bool pila_valida(const Carta &c) const;
+  bool columna_encaixa(int columna, const Carta &c) const;
+  // Pre: --; Post: retorna si la carta encaixa a la columna
+  bool columna_buida(int columna) const;
+  // Pre: --; Post: retorna si la columna és buida
 
   // Operadors
   Taulell &operator=(const Taulell &t);

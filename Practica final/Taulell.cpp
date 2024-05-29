@@ -46,15 +46,36 @@ Taulell &Taulell::espiar() {
   return *this;
 }
 
-void Taulell::posar_carta_ma(int columna, const Carta &c) {
+void Taulell::girar_ultima_carta(int columna) {
+  if (a_longitud[columna] != 0)
+    a_mat[columna][a_longitud[columna] - 1].girar();
+}
+
+void Taulell::apilar_carta(int columna, const Carta &c) {
   expandeix_contrau_fila(columna);
   a_mat[columna][a_longitud[columna] - 1] = c;
 }
 
+Carta Taulell::desapilar_carta(int columna) {
+  Carta aux;
+  if (a_longitud[columna] != 0) {
+    aux = a_mat[columna][a_longitud[columna] - 1];
+    expandeix_contrau_fila(columna, true);
+  }
+  return aux;
+}
+
 // Mètodes consultors
-bool Taulell::columna_valida(int columna, const Carta &c) const {
-  return columna < a_nc && columna > 0 &&
-         c.encaixen(a_mat[columna][a_longitud[columna] - 1]);
+bool Taulell::columna_valida(int columna) const {
+  return columna < a_nc && columna > 0;
+}
+
+bool Taulell::columna_encaixa(int columna, const Carta &c) const {
+  return c.encaixen(a_mat[columna][a_longitud[columna] - 1]);
+}
+
+bool Taulell::columna_buida(int columna) const {
+  return a_longitud[columna] == 0;
 }
 
 // Mètodes privats

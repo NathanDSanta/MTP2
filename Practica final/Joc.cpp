@@ -36,10 +36,11 @@ void Joc::posar_carta_tauler() {
     cout << "A QUINA COLUMNA LA VOLS POSAR: " << endl;
     int columna;
     cin >> columna;
-    if (!a_taulell.columna_valida(columna - 1, a_descartades.cim())) {
+    if (!a_taulell.columna_valida(columna - 1) ||
+        !a_taulell.columna_encaixa(columna - 1, a_descartades.cim())) {
       cout << "LA CARTA NO ES POT POSAR A LA COLUMNA " << columna << endl;
     } else {
-      a_taulell.posar_carta_ma(columna - 1, a_descartades.cim());
+      a_taulell.apilar_carta(columna - 1, a_descartades.cim());
     }
   }
 }
@@ -53,6 +54,27 @@ void Joc::posar_carta_pila() {
       cout << "LA CARTA NO ES POT APILAR " << endl;
     else {
       a_piles[c.pal()] += a_descartades--;
+    }
+  }
+}
+
+void Joc::moure_carta_tauler() {}
+
+void Joc::moure_carta_pila() {
+  cout << "ENTRA LA COLUMNA ORIGEN" << endl;
+  int columna;
+  cin >> columna;
+  if (!a_taulell.columna_valida(columna - 1) ||
+      a_taulell.columna_buida(columna - 1))
+    cout << "LA CARTA NO ES POT APILAR" << endl;
+  else {
+    Carta per_apilar = a_taulell.desapilar_carta(columna - 1);
+    if (!per_apilar.apilable(a_piles[per_apilar.pal()].cim())) {
+      cout << "LA CARTA NO ES POT APILAR" << endl;
+      a_taulell.apilar_carta(columna, per_apilar);
+    } else {
+      a_piles[per_apilar.pal()] += per_apilar;
+      a_taulell.girar_ultima_carta(columna - 1);
     }
   }
 }

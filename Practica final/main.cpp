@@ -44,11 +44,12 @@ int main() {
       break;
 
     case '4':
-
+      partida.moure_carta_tauler();
       break;
 
     case '5':
-
+      partida.moure_carta_pila();
+      cout << partida;
       break;
 
     case '6':
