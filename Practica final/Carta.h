@@ -40,12 +40,14 @@ public:
   // Mètodes consultors
   bool visible() const;
   // Pre: --; Post: retorna si la carta és visible
-  bool encaixen(const Carta &c) const;
-  // Pre: --; Post: retorna si la carta actual encaixa sota la carta c
   bool apilable(const Carta &c) const;
   // Pre: --; Post: retorna si la carta actual es pot apilar sobre c
+  bool encaixen(const Carta &c) const;
+  // Pre: --; Post: retorna si la carta actual encaixa sota la carta c
   int pal() const;
   // Pre: --; Post: retorna l'índex del pal
+  int valor() const;
+  // Pre: --; Post: retorna el valor de la carta
 
   // Operadors
   bool operator<(const Carta &c) const;

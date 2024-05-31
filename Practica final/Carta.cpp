@@ -31,22 +31,34 @@ Carta &Carta::girar() {
 }
 
 // MÈTODES CONSULTORS
-bool Carta::visible() const { return a_visible; }
+bool Carta::visible() const {
+  // Pre: --; Post: retorna si la carta és visible
+  return a_visible;
+}
 
 bool Carta::apilable(const Carta &c) const {
+  // Pre: --; Post: retorna si la carta actual es pot apilar sobre c
   return c.a_pal == 'E' && a_valor == 0 ||
          a_pal == c.a_pal && a_valor == c.a_valor + 1;
 }
 
 bool Carta::encaixen(const Carta &c) const {
-  return a_negre != c.a_negre && a_valor == c.a_valor - 1;
+  // Pre: --; Post: retorna si la carta actual encaixa sota la carta c
+  return c.a_pal == 'E' && a_valor == 12 ||
+         a_negre != c.a_negre && a_valor == c.a_valor - 1;
 }
 
 int Carta::pal() const {
+  // Pre: --; Post: retorna l'índex del pal
   int i = 0;
   while (i < 4 && PALS[i] != a_pal)
     i++;
   return i;
+}
+
+int Carta::valor() const {
+  // Pre: --; Post: retorna el valor de la carta
+  return a_valor;
 }
 
 // OPERADORS

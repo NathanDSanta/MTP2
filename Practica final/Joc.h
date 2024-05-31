@@ -17,6 +17,12 @@ public:
   Joc();
   // Pre: --; Post: demana llavor i prepara el joc.
 
+  // Mètodes consultors
+  bool guanyada() const;
+  // Pre: --; Post: retorna true si la partida està guanyada
+  bool pila_valida(int pila) const;
+  // Pre: --; Post: retorna si la pila és vàlida
+
   // Mètodes modificadors
   Joc &espiar_tauler();
   // Pre: --; Post: mostra totes les cartes del tauler de cap per munt
@@ -32,6 +38,8 @@ public:
   void moure_carta_pila();
   // Pre: --; Post: agafa la darrera carta de la columna i la posa a la seva
   // pila dels colls
+  void recuperar_carta();
+  // Pre: --; Post: recupera una carta de la pila de colls i la torna al joc
 };
 
 #endif // !JOC_H

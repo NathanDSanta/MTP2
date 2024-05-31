@@ -43,6 +43,11 @@ public:
   // Pre: --; Post: col·loca la carta a la columna demanada;
   Carta desapilar_carta(int columna);
   // Pre: --; Post: desapila la ultima carta de la columna
+  Pila_Cartes desempilar_multiples_cartes(int columna, int fila);
+  // Pre: --; Post: retorna una pila cartes (el cim és la carta de [columna,
+  // fila]) desempilada del taulell
+  void empilar_multiples_cartes(int columna, Pila_Cartes &per_empilar);
+  // Pre: --; Post: empila un seguit de cartes sobre a una columna
 
   //  Mètodes consultors
   bool columna_valida(int columna) const;
@@ -51,6 +56,12 @@ public:
   // Pre: --; Post: retorna si la carta encaixa a la columna
   bool columna_buida(int columna) const;
   // Pre: --; Post: retorna si la columna és buida
+  bool fila_valida(int columna, int fila) const;
+  // Pre: --; Post: retorna si fila és correcte
+  bool carta_visible(int columna, int fila) const;
+  // Pre: --; Post: retorna si una carta és visible
+  bool ultima_carta_visible(int columna) const;
+  // Pre: --; Post: retorna si la ultima carta de la columna és visible
 
   // Operadors
   Taulell &operator=(const Taulell &t);

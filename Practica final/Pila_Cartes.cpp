@@ -39,10 +39,12 @@ void Pila_Cartes::allibera() {
 
 void Pila_Cartes::copia(const Pila_Cartes &p) {
   // Pre: --; Post: pila és còpia de p
-  Node *i, *j = p.a_cim, *aux;
-  aux = new Node{j->valor, NULL};
+  Node *i, *j = p.a_cim, *aux = NULL;
+  if (j != NULL) {
+    aux = new Node{j->valor, NULL};
+    j = j->seg;
+  }
   a_cim = aux;
-  j = j->seg;
   i = aux;
   while (j != NULL) {
     aux = new Node{j->valor, NULL};
@@ -53,9 +55,13 @@ void Pila_Cartes::copia(const Pila_Cartes &p) {
 }
 
 // Mètodes consultors
-bool Pila_Cartes::buit() const { return a_cim == NULL; }
+bool Pila_Cartes::buit() const {
+  // Pre: --; Post: retorna si la pila està buida
+  return a_cim == NULL;
+}
 
 Carta Pila_Cartes::cim() const {
+  // Pre: --; Post: retorna el cim
   Carta c;
   if (a_cim != NULL)
     c = a_cim->valor;
@@ -83,6 +89,7 @@ Pila_Cartes &Pila_Cartes::operator=(Baralla &b) {
 }
 
 Carta Pila_Cartes::operator--(int) {
+  // Pre: --; Post: extreu la carta del cim i la retorna
   Carta carta = a_cim->valor;
   Node *aux = a_cim;
   a_cim = a_cim->seg;
@@ -96,6 +103,7 @@ void Pila_Cartes::operator+=(const Carta &c) {
   a_cim = aux;
 }
 
+// Operador cout
 ostream &operator<<(ostream &o, const Pila_Cartes &p) {
   if (p.a_cim != NULL)
     o << p.a_cim->valor;
